@@ -72,7 +72,7 @@ if __name__ == "__main__":
                         help='path to check and optinal delete duplicates in')
 
     parser.add_argument("-l", "--log-file",type=str, help="path of the log file to be written, defaults to duplicates.log in current folder")
-    parser.add_argument("-o", "--output-list", type=str, help="ouputs csv list of duplicates")
+    parser.add_argument("-o", "--output-csv", type=str, help="ouputs csv list of duplicates")
     parser.add_argument("-d", "--delete", action='store_true', help="automatically deletes duplicates")
     #parser.add_argument("-c", "--copy", nargs="+", type=str, help="copy non duplicate files from path2 to this path")
     parser.add_argument("-t", "--threading", action='store_true', help="use multithreading to help speedup the process")
@@ -135,17 +135,17 @@ if __name__ == "__main__":
     
     # can we open the output list ?
     csv = None
-    if args.output_list:
-        if os_functions.check_output_list(args.output_list):
+    if args.output_csv:
+        if os_functions.check_output_list(args.output_csv):
             logging.info("Passed check for writability of outputlist")
         else:
             logging.info("Ouputlist is not writable, you will need to privelege this user")
             if os_functions.prompt_sudo() != 0:
                 logging.error("Need super user privleges to continue")
-            if not os_functions.check_output_list(args.output_list):
+            if not os_functions.check_output_list(args.output_csv):
                 logging.error("Priveleged root user can not write file, please fix the issue")
                 raise Exception("Error while checking for write priveleges on ouput_list, check logging for error discription")
-        csv = args.output_list
+        csv = args.output_csv
 
 
     logging.info(f"Starting new run with path1 {args.path1} and path2 {args.path2}")
