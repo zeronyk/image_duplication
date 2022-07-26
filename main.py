@@ -77,7 +77,7 @@ if __name__ == "__main__":
     #parser.add_argument("-c", "--copy", nargs="+", type=str, help="copy non duplicate files from path2 to this path")
     parser.add_argument("-t", "--threading", action='store_true', help="use multithreading to help speedup the process")
     #parser.add_argument("-a", "--all", action='store_true', help="Consider all Pictures to be potential duplicates (else only consider pictures with same name, significantly reduces runtime)")
-    parser.add_argument("-ts", "--imagehash-threshold",type=int, default = 100,help = "if not used -a how much simularity must be on the imagehash of the pictues (values will be interpreted as %) default is 100")
+    parser.add_argument("-ts", "--imagehash-threshold",type=int, default = 100,help = "if not used -a how much simularity must be on the imagehash of the pictues (values will be interpreted as percent) default is 100")
     parser.add_argument("-rem", "--remove-other", action='store_true', help = "removes other files, that are not considerd documents (good if there is a lot of junk) only works with -d")
     parser.add_argument("-lvl", "--directory-level", type=int, default=1, help = "level of depth in namematching to be used while syntax finding duplicates (lvl= 0: consider every file, lvl=1: consider onlye files with same name, lvl=2: consider only files with same named subfolder and same filename), default is 1")
     args = parser.parse_args()
