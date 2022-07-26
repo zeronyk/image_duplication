@@ -22,13 +22,13 @@ def check_sudo():
         
         
 # check if file can be created, creates header of csv file 
-def check_output_list(path):
+def check_output_list(csv_path):
     try:
-        with open(args.output_list, "rw") as f:
-            f.write("duplicate;duplicate_from")
+        with open(csv_path, "a") as f:
+            f.write("duplicate;duplicate_from\n")
         logging.info("Passed write test of ouput_list")
     except Exception as e:
-        logging.error(f'Opening file {args.output_list} threw exception {str(e)}!')
+        logging.error(f'Opening file {csv_path} threw exception {str(e)}!')
         return False
     return True
 

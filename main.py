@@ -143,7 +143,7 @@ if __name__ == "__main__":
             if os_functions.prompt_sudo() != 0:
                 logging.error("Need super user privleges to continue")
             if not os_functions.check_output_list(args.output_csv):
-                logging.error("Priveleged root user can not write file, please fix the issue")
+                logging.error("Priveleged root user can not write file, please fix output_csv issue")
                 raise Exception("Error while checking for write priveleges on ouput_list, check logging for error discription")
         csv = args.output_csv
 

@@ -56,7 +56,7 @@ def find_duplicates_by_name(path_list1, path_list2, lvl):
         #name_list1 = [os.path.join(os.path.basename(os.path.normpath(x[0]) for x in path_list1] somthing like this
     
 def write_tuple_list_to_csv(path, list):
-    with open(path, "wr") as f:
+    with open(path, "a") as f:
         f.writelines([f"{x[0]}, {x[1]}\n" for x in list])
     logging.info(f"Finisehd writing duplicates into csv file {path}")
            
