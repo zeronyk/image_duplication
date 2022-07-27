@@ -1,9 +1,7 @@
-from nturl2path import pathname2url
 import pytest
 import os 
-import os_functions
 import shutil
-from main import find_dups
+from image_duplicate_finder import find_duplicates
 
 # aspects to test 
 # delete x
@@ -15,11 +13,11 @@ from main import find_dups
 
 
 # setting up all testfiles here 
-path1 = os.path.join("/home/hermel/Documents/raid_utils/test_files", "path1")
+path1 = os.path.join("/home/hermel/Documents/raid_utils/image_duplicate_finder/test/test_files", "path1")
 path1_docs = os.path.join(path1, "fo1")
 path1_trash = os.path.join(path1, "fo2")
 
-path2 = os.path.join("/home/hermel/Documents/raid_utils/test_files", "path2")
+path2 = os.path.join("/home/hermel/Documents/raid_utils/image_duplicate_finder/test/test_files", "path2")
 path2_trash = os.path.join(path2, "fo21")
 # other subfolder name
 path2_docs = os.path.join(path2, "fo22")
@@ -111,7 +109,7 @@ def set_up_testfiles():
 
 #@pytest.mark.parametrize("inputpath", [examplepath1, examplepath2, examplepath3, examplepath4, examplepath5, examplepath6])
 def test_nothing():
-    find_dups([path1], [path2], csv = None, delete = False, t = False, ts = 100, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = None, delete = False, t = False, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -180,7 +178,7 @@ def test_nothing():
         assert not x in p2
 
 def test_deletion():
-    find_dups([path1], [path2], csv = None, delete = True, t = False, ts = 100, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = None, delete = True, t = False, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -243,7 +241,7 @@ def test_deletion():
         assert x in p2d
 
 def test_deletion_remove_others():
-    find_dups([path1], [path2], csv = None, delete = True, t = False, ts = 100, lvl = 1, remove_others = True)
+    find_duplicates([path1], [path2], csv = None, delete = True, t = False, ts = 100, lvl = 1, remove_others = True)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -306,7 +304,7 @@ def test_deletion_remove_others():
         assert x in p2d
     
 def test_nothing_threaded():
-    find_dups([path1], [path2], csv = None, delete = False, t = True, ts = 100, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = None, delete = False, t = True, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -375,7 +373,7 @@ def test_nothing_threaded():
         assert not x in p2
 
 def test_deletion_threaded():
-    find_dups([path1], [path2], csv = None, delete = True, t = True, ts = 100, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = None, delete = True, t = True, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -438,7 +436,7 @@ def test_deletion_threaded():
         assert x in p2d
 
 def test_deletion_remove_others_threaded():
-    find_dups([path1], [path2], csv = None, delete = True, t = True, ts = 60, lvl = 1, remove_others = True)
+    find_duplicates([path1], [path2], csv = None, delete = True, t = True, ts = 60, lvl = 1, remove_others = True)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -501,7 +499,7 @@ def test_deletion_remove_others_threaded():
         assert x in p2d
 # this is not a good test but i dont have any pictures having ts i9
 def test_deletion_ts():
-    find_dups([path1], [path2], csv = None, delete = True, t = False, ts = 60, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = None, delete = True, t = False, ts = 60, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -564,7 +562,7 @@ def test_deletion_ts():
         assert x in p2d
 
 def test_deletion_csv():
-    find_dups([path1], [path2], csv = os.path.join(os.path.abspath(os.getcwd()), "test.csv"), delete = True, t = False, ts = 60, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = os.path.join(os.path.abspath(os.getcwd()), "test.csv"), delete = True, t = False, ts = 60, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -635,7 +633,7 @@ def test_deletion_csv():
 
 
 def test_deletion_csv_threaded():
-    find_dups([path1], [path2], csv = os.path.join(os.path.abspath(os.getcwd()), "test.csv"), delete = True, t = True, ts = 60, lvl = 1, remove_others = False)
+    find_duplicates([path1], [path2], csv = os.path.join(os.path.abspath(os.getcwd()), "test.csv"), delete = True, t = True, ts = 60, lvl = 1, remove_others = False)
     # check pictures 
 
     p1d = os.listdir(path1_docs)

@@ -1,0 +1,7 @@
+certifi @ file:///opt/conda/conda-bld/certifi_1655968806487/work/certifi
+ImageHash==4.2.1
+numpy==1.23.1
+Pillow==9.2.0
+PyWavelets==1.3.0
+scipy==1.8.1
+six==1.16.0
