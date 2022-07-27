@@ -1,0 +1,30 @@
+# pyproject.toml
+
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ImageDuplicateFinder"
+version = "0.6.0"
+description = "Simple duplication finder for Images, matches on names and then compares image hashes."
+readme = "README.md"
+authors = [{ name = "Michael Hermelschmidt", email = "mail.hermel@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["image", "duplicates", "duplicate-images", "deletion", "imagehash", "remover", "duplication-detection"]
+dependencies = [
+    "ImageHash>=4.2.1",
+]
+requires-python = ">=3.8"
+
+
+[project.urls]
+Homepage = "https://github.com/zeronyk/image_duplication"
+
+[project.scripts]
+idf = "image_duplicate_finder:find_duplicate_argparse"

@@ -11,6 +11,8 @@ setup(
     description='Simple duplication finder for Images, matches on names and then compares image hashes.',
     entry_points={
         'console_scripts': ['idf = image_duplicate_finder:find_duplicate_argparse']},
+    
+    long_description_content_type="text/markdown",
     long_description=open('README.md').read(),
     install_requires=[
         "ImageHash==4.2.1"
