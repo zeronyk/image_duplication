@@ -2,7 +2,7 @@ from setuptools import setup
  
 setup(
     name='ImageDuplicateFinder',
-    version='0.1.0',
+    version='0.6.0',
     author='Michael Hermelschmidt',
     author_email='mail.hermel@gmail.com',
     packages=['image_duplicate_finder'],
@@ -10,7 +10,7 @@ setup(
     license='LICENSE.txt',
     description='Simple duplication finder for Images, matches on names and then compares image hashes.',
     entry_points={
-        'console_scripts': ['idf = image_duplicate_finder.__init__:find_duplicates']},
+        'console_scripts': ['idf = image_duplicate_finder:find_duplicate_argparse']},
     long_description=open('README.md').read(),
     install_requires=[
         "ImageHash==4.2.1"

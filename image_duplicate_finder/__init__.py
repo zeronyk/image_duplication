@@ -3,6 +3,7 @@ import logging
 import argparse
 import os, sys
 import image_duplicate_finder.os_functions as os_functions
+import image_duplicate_finder.constants as constants
 import time
 
 

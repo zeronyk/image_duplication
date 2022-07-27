@@ -1,4 +1,4 @@
-from image_duplicate_finder import main
+from image_duplicate_finder import find_duplicate_argparse
 
 if __name__ == "__main__":
-   main()
+   find_duplicate_argparse()
