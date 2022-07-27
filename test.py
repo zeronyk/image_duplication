@@ -6,13 +6,12 @@ import shutil
 from main import find_dups
 
 # aspects to test 
-# delete 
+# delete x
 # output_csv 
-# threading 
-# log-file
-# imagehash-threashold
-# remove-other
-# directory level
+# threading x 
+# imagehash-threashold x
+# remove-other x
+# directory level (not implemented)
 
 
 # setting up all testfiles here 
@@ -109,9 +108,6 @@ def set_up_testfiles():
 
     del_tree(path1)
     del_tree(path2)
-    
-
-
 
 #@pytest.mark.parametrize("inputpath", [examplepath1, examplepath2, examplepath3, examplepath4, examplepath5, examplepath6])
 def test_nothing():
@@ -183,7 +179,6 @@ def test_nothing():
     for x in document_file_names:
         assert not x in p2
 
-
 def test_deletion():
     find_dups([path1], [path2], csv = None, delete = True, t = False, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
@@ -246,7 +241,6 @@ def test_deletion():
 
     for x in document_file_names:
         assert x in p2d
-
 
 def test_deletion_remove_others():
     find_dups([path1], [path2], csv = None, delete = True, t = False, ts = 100, lvl = 1, remove_others = True)
@@ -311,7 +305,6 @@ def test_deletion_remove_others():
     for x in document_file_names:
         assert x in p2d
     
-
 def test_nothing_threaded():
     find_dups([path1], [path2], csv = None, delete = False, t = True, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
@@ -381,7 +374,6 @@ def test_nothing_threaded():
     for x in document_file_names:
         assert not x in p2
 
-
 def test_deletion_threaded():
     find_dups([path1], [path2], csv = None, delete = True, t = True, ts = 100, lvl = 1, remove_others = False)
     # check pictures 
@@ -445,9 +437,8 @@ def test_deletion_threaded():
     for x in document_file_names:
         assert x in p2d
 
-
 def test_deletion_remove_others_threaded():
-    find_dups([path1], [path2], csv = None, delete = True, t = True, ts = 100, lvl = 1, remove_others = True)
+    find_dups([path1], [path2], csv = None, delete = True, t = True, ts = 60, lvl = 1, remove_others = True)
     # check pictures 
 
     p1d = os.listdir(path1_docs)
@@ -508,5 +499,206 @@ def test_deletion_remove_others_threaded():
 
     for x in document_file_names:
         assert x in p2d
-    
+# this is not a good test but i dont have any pictures having ts i9
+def test_deletion_ts():
+    find_dups([path1], [path2], csv = None, delete = True, t = False, ts = 60, lvl = 1, remove_others = False)
+    # check pictures 
 
+    p1d = os.listdir(path1_docs)
+    p1t = os.listdir(path1_trash)
+    p1 = os.listdir(path1)
+
+    p2t = os.listdir(path2_trash)
+    p2d = os.listdir(path2_docs)
+    p2 = os.listdir(path2)
+
+    file_list = []
+    file_list.extend(p1d)
+    file_list.extend(p1t)
+    file_list.extend(p1)
+    file_list.extend(p2t)
+    file_list.extend(p2d)
+    file_list.extend(p2)
+
+    unique_picture = set()
+
+    
+    for x in file_list:
+        if x.endswith(".png"):
+            assert x not in unique_picture
+            unique_picture.add(x)
+
+    for x in picture_file_names:
+        assert x in unique_picture
+
+    # check trash
+    unique_trash = set()
+    for x in file_list:
+        if x.endswith(trash_endings):
+            unique_trash.add(x)
+
+    for x in trash_file_names:
+        assert x in unique_trash
+    # check trash folder sperate
+    for x in trash_file_names:
+        assert x in p1t
+
+    for x in trash_file_names:
+        assert x in p2t
+
+
+    # check docs
+    unique_docs = set()
+    for x in file_list:
+        if x.endswith(doc_endings):
+            unique_docs.add(x)
+
+    for x in document_file_names:
+        assert x in unique_docs
+
+    # check docs folder sperate
+    for x in document_file_names:
+        assert x in p1d
+
+    for x in document_file_names:
+        assert x in p2d
+
+def test_deletion_csv():
+    find_dups([path1], [path2], csv = os.path.join(os.path.abspath(os.getcwd()), "test.csv"), delete = True, t = False, ts = 60, lvl = 1, remove_others = False)
+    # check pictures 
+
+    p1d = os.listdir(path1_docs)
+    p1t = os.listdir(path1_trash)
+    p1 = os.listdir(path1)
+
+    p2t = os.listdir(path2_trash)
+    p2d = os.listdir(path2_docs)
+    p2 = os.listdir(path2)
+
+    file_list = []
+    file_list.extend(p1d)
+    file_list.extend(p1t)
+    file_list.extend(p1)
+    file_list.extend(p2t)
+    file_list.extend(p2d)
+    file_list.extend(p2)
+
+    unique_picture = set()
+
+    
+    for x in file_list:
+        if x.endswith(".png"):
+            assert x not in unique_picture
+            unique_picture.add(x)
+
+    for x in picture_file_names:
+        assert x in unique_picture
+
+    # check trash
+    unique_trash = set()
+    for x in file_list:
+        if x.endswith(trash_endings):
+            unique_trash.add(x)
+
+    for x in trash_file_names:
+        assert x in unique_trash
+    # check trash folder sperate
+    for x in trash_file_names:
+        assert x in p1t
+
+    for x in trash_file_names:
+        assert x in p2t
+
+
+    # check docs
+    unique_docs = set()
+    for x in file_list:
+        if x.endswith(doc_endings):
+            unique_docs.add(x)
+
+    for x in document_file_names:
+        assert x in unique_docs
+
+    # check docs folder sperate
+    for x in document_file_names:
+        assert x in p1d
+
+    for x in document_file_names:
+        assert x in p2d
+
+
+    assert os.path.exists(os.path.join(os.path.abspath(os.getcwd()), "test.csv"))
+    with open(os.path.join(os.path.abspath(os.getcwd()), "test.csv"), "r") as f:
+        assert len(f.readlines()) > 0
+
+    os.remove(os.path.join(os.path.abspath(os.getcwd()), "test.csv")) 
+
+
+def test_deletion_csv_threaded():
+    find_dups([path1], [path2], csv = os.path.join(os.path.abspath(os.getcwd()), "test.csv"), delete = True, t = True, ts = 60, lvl = 1, remove_others = False)
+    # check pictures 
+
+    p1d = os.listdir(path1_docs)
+    p1t = os.listdir(path1_trash)
+    p1 = os.listdir(path1)
+
+    p2t = os.listdir(path2_trash)
+    p2d = os.listdir(path2_docs)
+    p2 = os.listdir(path2)
+
+    file_list = []
+    file_list.extend(p1d)
+    file_list.extend(p1t)
+    file_list.extend(p1)
+    file_list.extend(p2t)
+    file_list.extend(p2d)
+    file_list.extend(p2)
+
+    unique_picture = set()
+
+    
+    for x in file_list:
+        if x.endswith(".png"):
+            assert x not in unique_picture
+            unique_picture.add(x)
+
+    for x in picture_file_names:
+        assert x in unique_picture
+
+    # check trash
+    unique_trash = set()
+    for x in file_list:
+        if x.endswith(trash_endings):
+            unique_trash.add(x)
+
+    for x in trash_file_names:
+        assert x in unique_trash
+    # check trash folder sperate
+    for x in trash_file_names:
+        assert x in p1t
+
+    for x in trash_file_names:
+        assert x in p2t
+
+
+    # check docs
+    unique_docs = set()
+    for x in file_list:
+        if x.endswith(doc_endings):
+            unique_docs.add(x)
+
+    for x in document_file_names:
+        assert x in unique_docs
+
+    # check docs folder sperate
+    for x in document_file_names:
+        assert x in p1d
+
+    for x in document_file_names:
+        assert x in p2d
+
+    assert os.path.exists(os.path.join(os.path.abspath(os.getcwd()), "test.csv"))
+    with open(os.path.join(os.path.abspath(os.getcwd()), "test.csv"), "r") as f:
+        assert len(f.readlines()) > 0
+
+    os.remove(os.path.join(os.path.abspath(os.getcwd()), "test.csv")) 

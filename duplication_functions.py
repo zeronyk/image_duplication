@@ -2,6 +2,7 @@ import os
 import itertools
 import logging
 import threading
+from timeit import repeat
 import imagehash
 from PIL import Image
 from numpy import number
@@ -16,8 +17,19 @@ def find_duplicates_by_name(path_list1, path_list2, lvl):
 
     
     if lvl == 0:
+        raise Exception("Not implemented")
         logging.warn("Using lvl 0 can result in bad results, since path1 won't be checked against path1 and path2 visa versa")
-        duplicates = list(itertools.product([os.path.join(x[0], x[1]) for x in path_list1], [os.path.join(x[0], x[1]) for x in path_list2]))
+        # p1 x p1 (without id)
+        # p2 x p2 (without id)
+        # p1 x p2
+        duplicates = []
+        
+        # cool method but is making mistakes
+        #duplicates.extend([(x,y) for x, y in filter(lambda x: x[0] != x[1], itertools.product(path_list1, path_list1))])
+        #duplicates.extend([(x,y) for x, y in filter(lambda x: x[0] != x[1], itertools.product(path_list2, path_list2))])
+        #duplicates.extend(list(itertools.product([os.path.join(x[0], x[1]) for x in path_list1], [os.path.join(x[0], x[1]) for x in path_list2])))
+        
+        
         logging.info(f"Found {len(duplicates)} syntactic duplicates, by level {lvl}")
         return duplicates
     
