@@ -95,8 +95,6 @@ def hash_image_on_ts(path1, path2, ts):
             return False
     except Exception as e:
         logging.warn(f"Imagehash encounterd an error {str(e)} skipping and continue")
-    finally:
-        return False
 
 class img_hash_thread(threading.Thread):
     
@@ -115,7 +113,7 @@ class img_hash_thread(threading.Thread):
                 deletion_list.append((p1,p2))
             if i % 1000 == 0:
                 logging.info(f"Reached {i}/{len(self.chunck)} at {(i/len(self.chunck)) * 100}%")
-        logging.info(f"Thread {self.name} finished and deleted {len(self.chunck)} files")
+        logging.info(f"Thread {self.name} finished and added to deletion list {len(deletion_list)} files")
         logging.info(f"Thread {self.name} finished with {len(self.chunck)} images to compare")
         self.ouput_list = deletion_list
 

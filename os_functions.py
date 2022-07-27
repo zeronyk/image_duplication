@@ -66,12 +66,13 @@ def query_yes_no(question, default="yes"):
 
 def remove_formats_not_in_list(path, format_list):
     counter = 0
-    for root, dirs, files in os.walk(path, topdown=False):
-        for file in files:
-            if not file.lower().endswith(format_list):
-                os.remove(os.path.join(root,file))
-                counter = counter+1
-    logging.info(f"Removed {counter} files in folder {path}")
+    for p in path:
+        for root, dirs, files in os.walk(p, topdown=False):
+            for file in files:
+                if not file.lower().endswith(format_list):
+                    os.remove(os.path.join(root,file))
+                    counter = counter+1
+        logging.info(f"Removed {counter} files in folder {p}")
 
 def get_files(path, endings):
     output_list = []
