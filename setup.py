@@ -9,6 +9,8 @@ setup(
     url='http://pypi.python.org/pypi/picture_duplicate_finder/',
     license='LICENSE.txt',
     description='Simple duplication finder for Images, matches on names and then compares image hashes.',
+    entry_points={
+        'console_scripts': ['idf = image_duplicate_finder.__init__:find_duplicates']},
     long_description=open('README.md').read(),
     install_requires=[
         "ImageHash==4.2.1"
