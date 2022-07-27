@@ -9,14 +9,14 @@ import os_functions
 import constants
 import duplication_functions
 
-def main(path1:list, path2:list, csv = None, delete = False, t = False, ts = 100, lvl = 1, remove_others = False):
+def find_dups(path1:list, path2:list, csv = None, delete = False, t = False, ts = 100, lvl = 1, remove_others = False):
     
-    
+    print("h2")
     if not delete and remove_others:
         logging.error("Remove others is called without delte. Please procede with caution, remove others will remove a lot of files in path1 and path2, if you only want to delete pictueres only use -d")
         raise Exception("Remove others was called without -d flag")
 
-
+    print("h3")
     if remove_others:
         answer =os_functions.query_yes_no(f"Are you sure you want to delete all not whitelisted files {constants.whitelist_formats} in {path1} AND {path2}")
         if answer:
@@ -28,13 +28,13 @@ def main(path1:list, path2:list, csv = None, delete = False, t = False, ts = 100
         else: 
             logging.error("Arguments were used wrong, please read -h for help")
             raise Exception("You were close to deleting maybe important files, please read -h")
-
+    print("h4")
     path1_list = []
     for path in path1:
         path1_list.extend(os_functions.get_files(path, constants.picture_formats))
     
     logging.info(f"Found {len(path1_list)} pictures in {path1}")
-
+    print("h5")
     path2_list = []
     for path in path2:
         path2_list.extend(os_functions.get_files(path, constants.picture_formats))
@@ -157,7 +157,7 @@ if __name__ == "__main__":
         logging.info(f"remove-others was choosen whitelisted formats that won't be deleted are {constants.whitelist_formats}.")
 
     start = time.time()
-    main(args.path1, args.path2, csv = csv, delete = args.delete, t = args.threading, ts= 100, lvl = int(args.directory_level), remove_others = False )
+    find_dups(args.path1, args.path2, csv = csv, delete = args.delete, t = args.threading, ts= 100, lvl = int(args.directory_level), remove_others = False )
     logging.info(f"Process was finisehd in {time.time()- start}s")
 
 

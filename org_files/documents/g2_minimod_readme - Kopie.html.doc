@@ -1,0 +1,1324 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="g2_minimod_updatehistory-Dateien/filelist.xml">
+<title>MiniMod Balance - ReadMe</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Dennis Wittkötter</o:Author>
+  <o:LastAuthor>Dennis Wittkötter</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:Created>2008-05-16T19:17:00Z</o:Created>
+  <o:LastSaved>2008-05-16T19:17:00Z</o:LastSaved>
+  <o:Pages>6</o:Pages>
+  <o:Words>5455</o:Words>
+  <o:Characters>34369</o:Characters>
+  <o:Company>Privat</o:Company>
+  <o:Lines>286</o:Lines>
+  <o:Paragraphs>79</o:Paragraphs>
+  <o:CharactersWithSpaces>39745</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=dataStoreItem href="g2_minimod_updatehistory-Dateien/item0001.xml"
+target="g2_minimod_updatehistory-Dateien/props0002.xml">
+<link rel=themeData href="g2_minimod_updatehistory-Dateien/themedata.thmx">
+<link rel=colorSchemeMapping
+href="g2_minimod_updatehistory-Dateien/colorschememapping.xml">
+
+<style>
+<!--
+ /* List Definitions */
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+body {
+	background-color: #F8F8F8;
+}
+.Stil4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #006699;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+a {
+	font-size: 12px;
+	color: #006699;
+}
+.Stil5 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a:link {
+	color: #006699;
+	text-decoration: none;
+}
+.Stil6 {color: #333333}
+.Stil7 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; }
+
+a:visited {
+	text-decoration: none;
+	color: #006699;
+}
+a:hover {
+	text-decoration: underline;
+	color: #006699;
+}
+a:active {
+	text-decoration: none;
+}
+.Stil8 {font-weight: bold}
+.Stil9 {
+	color: #006699;
+	font-weight: bold;
+	background-color: #DDD;
+}
+.Stil31 {	color: #333333;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Stil32 {font-weight: bold}
+.Stil33 {font-weight: bold}
+.Stil34 {font-weight: bold}
+.Stil35 {font-weight: bold}
+.Stil36 {font-weight: bold}
+.Stil38 {font-weight: bold}
+.Stil39 {font-weight: bold}
+.Stil40 {font-weight: bold}
+.Stil41 {font-weight: bold}
+.Stil56 {color: #333333; font-size: 12px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.Stil57 {font-weight: bold}
+-->
+</style>
+</head>
+
+<body lang=DE>
+
+<div class=Section1>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><b><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>
+  <o:p>&nbsp;</o:p>
+  <br>
+</span><span class="Stil4"><span class="Stil25">ReadMe &ndash; MiniMod Balance</span></span><u><span class="Stil4"><br>
+  </span></u></b></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span class="Section1 Stil1"><b><span class="Stil5" lang=EN-US>Autor: </span></b><span class="Stil5" lang=EN-US>Dennis &quot;Tricky&quot; Wittk&ouml;tter<b>
+<o:p></o:p>
+<br>
+</b></span></span><span class="Section1 Stil1"><b><span class="Stil5" lang=EN-US>eMail:</span></b> <span class="Stil5"><a href="mailto:dennis-wittkoetter@gmx.de">tricky@gothic-minimods.de</a><strong><br>
+Homepage: </strong><a href="http://www.gothic-minimods.de" target="_blank">http://www.gothic-minimods.de</a></span></span><span class="Section1 Stil1"><span class="Stil5"><a href="mailto:dennis-wittkoetter@gmx.de">
+  <o:p></o:p>
+</a></span></span></p>
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal'><span class="Stil5">Diese Modifikation wird in
+das Hauptspiel &quot;Gothic II - Die Nacht des Raben&quot; integriert und
+ver&auml;ndert einige Spielelemente.<br>
+<br>
+</span></p>
+<div>
+  <p class=MsoNormal Stil9 style='margin-bottom:0cm; margin-bottom:.0001pt; line-height:
+normal; background-color: #DDD;'><span class="Stil9">Inhalt</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>
+    <o:p></o:p>
+  </span></p>
+</div>
+<ol>
+  <li><a href="#MAIN_Installation" target="_self">Installation</a></li>
+  <li><a href="#MAIN_Starten" target="_self">Starten</a></li>
+  <li><a href="#MAIN_Aenderungen" target="_self">&Auml;nderungen</a>
+    <ol type="a">
+      <li type="a" class="Stil5"><a href="#Aenderungen_Balancing" target="_self">Balancing</a>
+          <o:p></o:p>
+          <ul type="disc">
+            <li><span class="Stil5"><a href="#Balance_Attribute" target="_self">Attribute und
+              Talente</a>
+              <o:p></o:p>
+            </span></li>
+            <li><span class="Stil5"><a href="#Balance_Items" target="_self">Items</a></span></li>
+            <li><span class="Stil5"><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'><a href="#Aenderungen_Quests" target="_self">Quests &amp; EXP</a></span></span></li>
+          </ul>
+      </li>
+      <li type="a" class="Stil6">
+          <span class="Stil5"
+style='mso-bidi-font-family:Arial'>
+          <o:p></o:p>
+        </span><span class="Stil5"
+style='mso-bidi-font-family:Arial; color:#333333; text-decoration: none; text-underline:none'><a href="#Aenderungen_Features" target="_self">Features</a></span><span class="Stil5" style='mso-bidi-font-family:Arial'>
+        <o:p></o:p>
+        </span>
+        <ul type="disc">
+          <li><span class="Stil5"><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'><a href="#Features_Npcs" target="_self">NPCs und Dialoge</a></span></span>          </li>
+          <li><span class="Stil5" style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'><a href="#Features_Items" target="_self">Items</a></span></li>
+          <li><span class="Stil5"><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'><a href="#Features_Sonstiges" target="_self">Sonstiges</a></span></span></li>
+          </ul>
+        </li>
+      <li type="a"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#Aenderungen_Bugfixes" target="_self">Bugfixes</a></span></span></li>
+      <li><a href="Aenderungen_Logikfixes" target="_self">Logikfixes</a></li>
+      <li><a href="Aenderungen_Kosmetik" target="_self">Kosmetische &Auml;nderungen<br>
+      </a></li>
+    </ol>
+    </li>
+  <li><a href="#MAIN_BekannteBugs" target="_self">Bekannte Fehler</a></li>
+  <li><a href="#MAIN_Outtakes">Outtakes</a></li>
+  <li><span class="Stil5"
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#MAIN_Details" target="_self">&Auml;nderungen im Detail</a></span> 
+    <ol type="a">
+      <li type="a"><a href="#Details_Lernpunkte" target="_self">D<span class="Stil5"
+style='mso-bookmark:_Ref186786489'><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'>etails zum
+        ver&auml;nderten Lernpunktesystem</span></span></a></li>
+        <li><a href="#Details_Beten" target="_self">Details  zum ver&auml;nderten Bet-System</a></li>
+        <li type="a"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#Details_Ruestungen" target="_self">Details zu ver&auml;nderten R&uuml;stungswerte</a></span></span></li>
+        <li type="a"><a href="#Details_Waffen" target="_self"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'>Details zu ver&auml;nderten Waffenwerten</span></span></a></li>
+        <li type="a"><a href="#Details_Magieschaden" target="_self"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'>Details zu Magiesch&auml;den</span></span></a></li>
+        <li type="a"><a href="#Details_AntikeRuestung" target="_self"><span style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none">Details zur Antiken R&uuml;stung</span></a></li>
+        <li type="a"><a href="#Details_Perks" target="_self"><span class="Stil5"> <span style='mso-bidi-font-family:Arial;text-decoration:none; text-underline:none'>Details zu den Perks</span></span></a></li>
+        <li type="a"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#Details_Lehringe">Details zum erweiterten Lehrlingssystem</a></span></span>
+          <ul type="disc">
+            <li><a href="#Lehrlinge_Schmied" target="_self"><span class="Stil5"><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'>erweitertes
+              Schmiedesystem</span></span></a></li>
+            <li><a href="#Lehrlinge_Alchemie" target="_self"><span class="Stil5"><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'>erweitertes Alchemiesystem</span></span></a></li>
+            <li><span class="Stil5"><span style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'><a href="#Lehrlinge_Munition" target="_self">Pfeil- und
+                  Bolzenherstellung</a></span> | <span
+style='text-decoration:none;text-underline:none'><a href="#MAIN_Munitionswechsel" target="_self">Wechsel des Pfeil-
+                / Bolzen</a></span><a href="#MAIN_Munitionswechsel">typ</a></span></li>
+          </ul>
+        </li>
+        <li type="a"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#Details_Beschwoerung" target="_self">Ver&auml;ndertes Beschw&ouml;rungssystem</a></span></span></li>
+        <li type="a"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#Details_Verwandlungen" target="_self">Ver&auml;ndertes Verwandlungssystem</a></span></span></li>
+        <li type="a"><span class="Stil5"><span
+style='mso-bidi-font-family:Arial;text-decoration: none;text-underline:none'><a href="#Details_Hotkeys" target="_self">Details zu den Hotkeys</a></span></span></li>
+        <li><a href="#Details_Schwierigkeit" target="_self">Details zum Schwierigkeitgrad-Regler</a></li>
+        <li type="a"><a href="#Details_Scriptpatch" target="_self"><span class="Stil5"><span lang=EN-US
+style='mso-bidi-font-family:Arial;mso-ansi-language: EN-US;text-decoration:none;text-underline:none'>Details zu Lord Sargons
+        Script-Patch</span></span></a></li>
+      </ol>
+  </li>
+  <li><span class="Stil5"><span lang=EN-US style='mso-bidi-font-family:Arial;mso-ansi-language: EN-US;text-decoration:none;text-underline:none'><a href="#MAIN_Credits" target="_self">Credits</a></span></span> </li>
+</ol>
+<p>&nbsp;</p>
+<div class="Stil9">
+  <p class="Stil9"><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family: Arial'>1. </span></b><span style='mso-bidi-font-family:Arial'><strong><u><b
+style='mso-bidi-font-weight:normal'><span style="mso-bidi-font-family: Arial"><a name="MAIN_Installation"></a></span></b></u>Installation</strong>
+    <o:p></o:p>
+  </span></p>
+</div>
+<p><span class="Stil5"
+style='mso-bidi-font-family:Arial'>Um die MiniMod Balance zu
+  verwenden muss Gothic II - Die Nacht des Raben mit dem aktuellen Patch 2.6
+  installiert sein.
+    <o:p></o:p>
+    <br>
+Startet die Setup-Datei und
+  w&auml;hlt den Pfad in dem sich Gothic II - Die Nacht des Raben befindet (z.B.
+  C:\Programme\Piranha Bytes\Gothic II - Die Nacht des Raben\).
+  <o:p></o:p>
+  Noch ein Klick auf
+  &quot;Installieren&quot; und MiniMod Balance wird installiert.
+  <o:p></o:p>
+  F&uuml;r gew&ouml;hnlich wird der
+  Pfad aber automatisch ausgew&auml;hlt.
+  <o:p></o:p>
+  
+  <o:p></o:p>
+  <br>
+</span><span class="Stil5"><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family: Arial'>Hinweis: </span></b><span style='mso-bidi-font-family: Arial'>Um alle Funktionen dieser Mod nutzen zu k&ouml;nnen wird der GothicStarter in
+    der Version 2.6f mitinstalliert.
+<o:p></o:p>
+  </span></span></p>
+<p>&nbsp;</p>
+<div class="Stil9">
+  <p class="Stil5" style="margin-bottom: 10.0pt"><span class="Stil9"><b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family: Arial'>2. <a name="MAIN_Starten"></a></span></b><span style='mso-bidi-font-family:Arial'><strong>Starten</strong></span></span><span style='mso-bidi-font-family:Arial'>
+    <o:p></o:p>
+  </span></p>
+</div>
+<p class="Stil5">Startet das Spiel &uuml;ber den
+  &quot;GothicStarter&quot; ([Gothic2]\system\GothicStarter.exe) und w&auml;hlt hier
+  &quot;MiniMod Balance&quot;. <br>
+  <b
+style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-family: Arial'>Hinweis:</span></b><span style='mso-bidi-font-family: Arial'> Nach einem Update einer &auml;lteren Version der MiniMod Balance ist es zwar
+  nicht unbedingt erforderlich ein neues Spiel zu starten, aber auf jeden Fall empfehlenswert.
+  Ansonsten werden ggf. nicht alle Neuerungen oder nur wenige Neuerungen aktiv,
+  je nachdem wie alt die vorherige Version war. Au&szlig;erdem wird das Absturzrisiko
+  oder evtl. Fehler durch Inkompatibilit&auml;ten neuerer Skriptroutinen gemindert.
+  <o:p></o:p>
+  </span></p>
+<p>&nbsp;</p>
+<div class="Stil9">
+  <p><span class="Stil7">3. <a name="MAIN_Aenderungen"></a>&Auml;nderungen</span></p>
+</div>
+<ol type="a" class="Stil28">
+  <li class="Stil8"><a name="Aenderungen_Balancing"></a><strong><u>Balancing</u></strong></li>
+</ol>
+<blockquote>
+  <ul>
+    <li><a name="Balance_Attribute"></a>
+      
+      <strong>
+      <o:p></o:p>
+      <span class="Stil5" style='mso-bidi-font-family: Arial;text-decoration:none;text-underline:none'>Attribute und
+        Talente</span></strong>
+      <strong><br>
+      </strong><br>
+      
+      <ul>
+        <li>Umfangreiche Werteanpassung bei Monstern und anderen Gegnern <span
+style='mso-bidi-font-family:Arial'>(<a href="g2_minimod_wertetabelle.mht" target="_blank">Details</a>)
+
+            <o:p></o:p>
+        </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>ver&auml;ndertes
+            Lernpunktesystem (</span><a href="#Details_Lernpunkte" target="_self"><span style='mso-bidi-font-family:Arial'>Details</span></a>)</li>
+          <li>v<span
+style='mso-bidi-font-family:Arial'>erschiedene
+            &quot;Perks&quot; eingebaut (</span><a href="#Details_Perks" target="_self"><span
+style='mso-bidi-font-family:Arial'>Details</span></a><span
+style='mso-bidi-font-family:Arial'>)
+          </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Neues System f&uuml;r Manakosten
+              der Spruchrollen:</span>
+            <ul>
+              <li>
+                <span
+style='mso-bidi-font-family:Arial'>Feuer-, Wassermagier oder
+                    Novizen verbrauchen nur 25% der Manakosten, die die entsprechende Rune
+              verbrauchen w&uuml;rde</span></li>
+              <li><span
+style='mso-bidi-font-family:Arial'>Sollte der Zauber ein
+                  Feuerzauber sein und der Anwender ist Feuermagier sinken die Kosten auf 20% der
+              Rune (gilt nat&uuml;rlich auch f&uuml;r Wasserzauber bei Wassermagiern)</span></li>
+              <li>
+                <span
+style='mso-bidi-font-family:Arial'>F&uuml;r alle anderen Gilden
+                oder Gildenlose betragen die Kosten 50% der Rune</span></li>
+            </ul>
+          </li>
+            
+          <li><span
+style='mso-bidi-font-family:Arial'>LP-Kosten einiger Runen
+          angepasst          </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>LP-Kosten f&uuml;r Jagdtalente
+                angepasst, je nach Relevanz: </span>
+            <ul>
+              <li><span
+style='mso-bidi-font-family:Arial'>1 LP f&uuml;r einfache Troph&auml;en
+                die nur Geld einbringen (Klauen, Z&auml;hne, Stachel,...) </span>                </li>
+              <li><span style="mso-bidi-font-family:Arial">2 LP f&uuml;r Troph&auml;en zur
+                Herstellung von Runen, R&uuml;stungen oder Pfeilen (Herzen, Minecrawlerplatten,...) </span>              </li>
+              <li><span style="mso-bidi-font-family:Arial">3 LP f&uuml;r Troph&auml;en durch die
+              sich &uuml;ber Quests viele EXP sammeln lassen (Schattenl&auml;uferh&ouml;rner, Drachenschuppen,...) </span></li>
+            </ul>
+          </li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Kosten f&uuml;r
+                Irrlicht-Training auf 1 LP pro F&auml;higkeit verringert (ist sowieso eher
+            nutzlos...) </span>          </li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Lernpunkte f&uuml;r's Schmieden
+                bei Harad, Dobar, etc. ausgebaut. Ein Schwert kostet nun so viele Lernpunkte
+                wie der Bonus auf das Kampftalent, den es gibt. Ein Schwert mit +5%
+                Einhandkampf kostet folglich 5 LP</span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>ver&auml;ndertes
+                Beschw&ouml;rungssystem (</span><a href="#Details_Beschwoerung" target="_self"><span
+style='mso-bidi-font-family:Arial'>Details</span></a><span
+style='mso-bidi-font-family:Arial'>)
+            </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>ver&auml;ndertes
+                Verwandlungssystem + Verwandlungsrunen, erlernbar f&uuml;r alle Klassen (</span><a
+href="#Details_Verwandlungen" target="_self"><span style='mso-bidi-font-family: Arial'>Details</span></a><span style='mso-bidi-font-family: Arial'>)
+            </span></li>
+          <li>
+            <span
+style='mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family: Arial;mso-fareast-language:DE'>Das Bet-System an Innos-Schreinen wurde
+                  modifiziert. (<a href="#Details_Beten" target="_self">Details</a>)</span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>St&auml;rkewert von Cronos herab
+                  gesetzt, sodass er nicht mehr den &quot;Stab der Wassermagier&quot; oder
+            &quot;Taifun&quot; anlegt, die er eigentlich verkaufen soll. </span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Sumpfgolems nehmen jetzt
+                  doppelten Schaden bei Feuerzaubern, sodass ein Magier im 2. Kapitel in der
+            Addonwelt eine bessere Chance gegen sie hat.</span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Trainingsmaximum einiger
+            Lehrer angehoben            </span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Zauberauswahl der Suchenden
+            etwas erweitert</span></li>
+          <li>
+            <span
+style='Arial'>Der Schwarzmagier wurde nun
+                  etwas entsch&auml;rft: Den &quot;Schrei der Toten&quot; setzt er nur im Notfall ein,
+            daf&uuml;r mehr HP und Regeneration. </span></li>
+          <li><span
+style='mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family: Arial;mso-fareast-language:DE'>Suchende auf Irdorath sind nun st&auml;rker</span></li>
+          <li>Mehrere beschworene Monster  gleicher Art greifen sich nicht mehr gegenseitig an, sind dann aber durch das neue  Beschw&ouml;rungssystem nicht so lang kontrollierbar.</li>
+          <li><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Der
+      Mindestschaden (5 HP werden bei einem Treffer in jedem Fall abgezogen) wurde
+      bei Trollen deaktiviert, damit man als schwacher Char nicht l&auml;nger ihre
+      Tr&auml;gheit im Kampf nutzen kann. Speziell der Schwarze Troll soll so mehr wie ein
+      Zwischengegner wirken</span>.</li>
+          <li><span class="Stil56"></span><span class="Stil31">Optionen f&uuml;rs Training des Irrlicht-Amuletts bei Riordian sind nun von Anfang an gleich alle freigeschaltet, anstatt nach und nach.</span></li>
+          <li>Die Boni bei Vatras f&uuml;r die Abgabe der alten Steintafen richten sich nun nach den insgesamt abgegebenen Tafeln<br>
+            <br>
+            <strong><br>
+            </strong></li>
+      </ul>
+      </li>
+      <li><strong><u><a name="Balance_Items"></a></u>Items</strong><u><br>
+        <br>
+        </u>      
+        <ul>
+          <li><span
+style='mso-bidi-font-family:Arial'>Waffen-, R&uuml;stungs, Runen-
+              und Spruchrollenwerte &uuml;berarbeitet (<a href="g2_minimod_wertetabelle.mht">Details</a>)
+
+            <o:p></o:p>
+            </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>H&auml;ndlerinventare optimiert
+          um die Waffenauswahl an die Kapitel anzupassen</span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Der tote Paladin am Pass im
+          Minental hat nun keine &quot;Heiliges Licht&quot; - Rune mehr im Inventar.</span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Feuerpfeile, magische
+                Pfeile und magische Bolzen gibt es nun ab Kapitel 2 bei Isgaroth und Cronos zu Kaufen.
+          Die Preise wurden entsprechend angehoben.</span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Orkschl&auml;chter, Folteraxt,
+                Drachenschneide und Berserkeraxt wurden aus allen H&auml;ndlerinventaren entfernt. Erst
+                Bennet bietet diese Waffen auf Irdorath zum Kauf an. Damit sind diese besten
+          gildenunabh&auml;ngigen Waffen nur noch zu finden (jeweils gut bewacht). </span></li>
+          <li>Der Piratens&auml;bel ben&ouml;tigt nun Geschicklichkeit zum Anlegen. </li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Der schw. Erz-Zweih&auml;nder
+              ist nun schon nach Raven's Tod herstellbar, um eine bessere Alternative zur
+          Klaue Beliars zu bieten und da bereits Waffen &auml;hnlichen Werten verf&uuml;gbar sind. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Auch kann man das Schmieden
+              der &quot;Erz-Schlachtklinge&quot; und der &quot;schweren
+              Erz-Schlachtklinge&quot; nun schon nach dem Aufladen des &quot;Auge
+              Innos'&quot; lernen, anstatt im 4. Kapitel. Dadurch muss man gegebenenfalls
+              nicht extra wieder aus dem Minental zur&uuml;ck nach Onars Hof laufen, da das 4. Kapitel
+          erst nach dem Betreten des Minentals nach dem Umkehrritual beginnt. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Ver&auml;nderung der
+            &quot;Zauberst&auml;be&quot;:<br>
+            Der &quot;Zauberstab der Feuermagier&quot; wurde &uuml;berarbeitet und hat einen
+              zus&auml;tzlichen Feuerschaden + Effekt bekommen.<br>
+            Der neue &quot;Zauberstab der Wassermagier&quot; ist in etwa gleichwertig,
+              friert den Gegner aber kurzzeitig ein.<br>
+            </span><span
+style='mso-bidi-font-family:Arial'>Als Feuermagier kann man
+                den &quot;Zauberstab der Feuermagier&quot; ab dem 3. Kapitel bei Gorax kaufen.<br>
+            </span>
+            <span
+style='mso-bidi-font-family:Arial'>Als Wassermagier kann man
+                den &quot;Zauberstab der Wassermagier&quot; ab dem 3. Kapitel bei Cronos
+          kaufen. Preis und Anforderungen sind entsprechend gestiegen.</span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Feldkn&ouml;terich kostet jetzt
+              nur noch 50 Gold, vorher 100. Vorher war der Kauf nur interessant, falls man
+            &quot;Reines Mana&quot; oder &quot;Reine Lebensenergie&quot; brauen wollte.
+          Alle anderen Tr&auml;nke waren billiger als der Feldkn&ouml;terich. </span></li>
+          <li>Va<span
+style='mso-bidi-font-family:Arial'>tras verkauft auf
+          Irdorath nun 2 mal Schwefel f&uuml;r Embarla Firgasto. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Den &quot;Minecrawler
+              G&uuml;rtel&quot; kann man nun schon im 2. Kapitel bei Bennet kaufen. (Er war vorher
+          erst ab dem 3. Kapitel verf&uuml;gbar, als er schon fast wieder nutzlos war.) </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Orlan verkauft nun
+          Bauernkleidung f&uuml;r den kleinen Geldbeutel. </span></li>
+          <li>B<span
+style='mso-bidi-font-family:Arial'>ospers gestohlener Bogen
+          hat nun einen +3%-Bonus auf's Bogentalent</span></li>
+          <li>
+            <span
+style='mso-bidi-font-family:Arial'>Magierst&auml;be bieten nun
+                zus&auml;tzl. Magieschutz, abh&auml;ngig vom Manawert. Je mehr max. Mana, desto h&ouml;her der
+          Schutz. Der Schutz wird erst wirksam, wenn der Stab gezogen (!) wurde. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Wer die Grundlagen des
+              Schmiedens lernt, kann nun analog zum &quot;Schwert&quot; einen Groben
+          Zweih&auml;nder (Schaden: 60, St&auml;rke: 40, 4% auf Zweihandkampf) schmieden. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>&quot;Ring des
+              Wassers&quot;-Set: Es gibt nun Boni auf Attribute und / oder R&uuml;stungsschutz
+              wenn der Ring des Ring des Wassers (RdW) entweder mit dem Kampfstab des RdW
+          oder der R&uuml;stung des RdW oder beidem getragen wird. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Neoras' Dracheneisekret
+          gibt nun auch +10 auf Mana.      </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Die Tr&auml;nen Innos' k&ouml;nenn
+              nun auch als Wassermagier getrunken werden, wenn man vorher Feuermagier war.
+          Zus&auml;tzlich geben die Tr&auml;nen nun auch einen kleinen Mana-Bonus. </span></li>
+          <li>E<span
+style='mso-bidi-font-family:Arial'>ispfeile der Skelettmagier
+          verst&auml;rkt. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Feuerb&auml;lle der
+          Ork-Schamanen verst&auml;rkt. </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Magierroben geben nun einen
+          Manabonus.      </span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>2 G&uuml;rtel mit Manabonus
+            eingebaut (+10, +20). Sie sind ab Kapitel 2 bei diversen H&auml;ndlern zu kaufen.</span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Kurzbogen bei       Dragomir gegen einen Weidenbogen ausgetauscht.</span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Angebot bei den H&auml;ndlern des oberen Viertels etwas umfangreicher gestaltet (mehr Tr&auml;nke bei Salandril, div. Kleinkram bei Lutero)</span></li>
+          <li><span
+style='mso-bidi-font-family:Arial'>Ulmenbogen in der Truhe in einer H&ouml;hle (von Olavs H&ouml;hle aus den Berg hochklettern) im Minental gegen Eschenbogen ausgetauscht.<br>
+            </span><span
+style='mso-bidi-font-family:Arial'><br>  
+            <br>
+              </span></li>
+        </ul>
+      </li>
+        
+    <li><span style="mso-bidi-font-family: Arial;text-decoration:none;text-underline:none"><u><strong><a name="Aenderungen_Quests"></a></strong></u><strong>Quests &amp; EXP</strong><br>
+      <br>
+    </span>
+      <ul>
+        <li>EXP-Belohnung der Beliar-Runen  &uuml;berarbeitet</li>
+          <li>Pro verkauftem Honigtabak  bei Abuyin gibt es nun 50 EXP</li>
+          <li>Man bekommt von Gorn nun  die schw. S&ouml;ldnerr&uuml;stung. Daf&uuml;r kann man sie aber auch schon bei Lee kaufen,  nachdem Raven get&ouml;tet wurde. Bei</li>
+          <li>Bennet gibt es nun EXP f&uuml;r  Drachenschuppen. <br>
+          Bei Jan wurden die EXP, die man f&uuml;r 20 gesammelte Drachenschuppen erh&auml;lt,  entsprechend den EXP die Bennet geben w&uuml;rde angehoben, damit der Spieler hier  nicht benachteiligt wird. Es ist also egal, ob er die Schuppen bei Bennet oder  Jan abgibt. Die Summe der EXP bleibt die selbe.</li>
+          <li>2 Ork-Eliten am Pass  postiert, um den Durchgang im 2. Kapitel zu erschweren. Zudem wurden ein paar  Goblins und junge W&ouml;lfe dort gegen Schwarze Goblins, bzw. ausgewachsene W&ouml;lfe  ausgetauscht.</li>
+          <li>F&uuml;r das Abgeben der  &quot;Klaue Beliars&quot; gibt es nun um so mehr EXP je h&ouml;her das Level der  Klaue ist.<br>
+          F&uuml;r das h&ouml;chste Level (20) erh&auml;lt man insgesamt 10000 EXP (!). Der Magier  erh&auml;lt mehr EXP, je h&ouml;her der Magiekreis der Rune ist, die er abgibt:</li>
+          <li>Die Quest &quot;Die  Crawlerr&uuml;stung&quot; gibt nun 500 EXP, analog zur Quest &quot;Dieantike R&uuml;stung&quot; (ebenfalls 500 EXP).</li>
+          <li>Kleine Quest von Henry  freigeschaltet</li>
+          <li>Runenb&uuml;cher geben 100 EXP  beim Lesen</li>
+          <li>alle &quot;einfachen&quot;  Wege einer Gilde beizutreten, d.h. mit Vatras Hilfe, geben weniger EXP</li>
+          <li>EXP f&uuml;r den       Schwarzen Wolf leicht angehoben (= 100 EXP).<br>
+          </li>
+        </ul>
+      <br>
+    </li>
+    </ul>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="2" type="a">
+  <li class="Stil8"><span class="Stil31"><a name="Aenderungen_Features"></a><u>Features</u></span></li>
+</ol>
+<blockquote>
+  <ul>
+    <li><strong><u><a name="Features_Npcs"></a></u>NPCs &amp; Dialoge</strong> <br>
+          <br>
+        <ul>
+          <li>einige deaktivierte Dialoge  diverser NPC's wieder aktiviert</li>
+          <li>Neue Tagesabl&auml;ufe f&uuml;r  Lothar und dazu passende Dialoge wieder aktiviert.</li>
+          <li>Tagesabl&auml;ufe einiger NPC's  erweitert (Diego schl&auml;ft nun nachts, nachdem er bei Gerbrandt eingezogen ist;  der ein oder andere Magier im Kloster legt sich nun schlafen)</li>
+          <li>Lehmar leiht einem nun auch  mehr als nur einmal Gold</li>
+          <li>Logan lehrt einen nun  &quot;Tiere h&auml;uten&quot; statt &quot;Felle abziehen&quot;. Das deckt sich eher  mit seiner Aussage, dass er einem zeigt, wie man Sumpfhaie richtig ausweidet,  wo &quot;Felle ziehen&quot; etwas unpassend ist.</li>
+          <li>Lester geht nun am Anfang  des 3. Kapitels zu Xardas, anstatt in sein Tal.</li>
+          <li>Der Richter ist nun nach  der Abgabe des Heiligen Hammers sterblich. Wer sich also mal bei ihm  &quot;bedanken&quot; m&ouml;chte, kann das nun tun. Das Erm&auml;chtigungsschreiben f&uuml;r  das Schiff gibt es dann bei Lee.</li>
+          <li>Wassermagier haben nun die  M&ouml;glichkeit Verb&uuml;ndete &uuml;ber Heil-Runen zu heilen, statt mit Tr&auml;nken.</li>
+          <li>Der UD spawnt regelm&auml;&szlig;ig eine zuf&auml;llige Anzahl an Skeletten.</li>
+          <li>Wassermagier verteidigen  sich nun mit Wasser-Zaubern.</li>
+          <li>Edda legt sich Nachts nun  Schlafen</li>
+          <li>Auf der  &quot;Esmeralda&quot; befindet sich nun ein Innos-Schrein + erweiterte  Tagesabl&auml;ufe f&uuml;r Milten, Pedro und Girion (Beten)</li>
+          <li>Auf Irdorath befinden sich  mehrere Beliar-Schreine</li>
+          <li>Sumpfgolems beim  Sumpfdrachen platziert.</li>
+          <li>Fajeth reagiert nun auf  Bilgots verschwinden, falls der Spieler ihn zum Pass bringt. Man hat nun, je  nach Gilde, verschiedene M&ouml;glichkeiten, sich aus der Sache rauszureden /-kaufen  /-kloppen.<br>
+          Bilgot wurde zudem als Deserteur im Hafenviertel platziert.</li>
+          <li>&quot;Tiere h&auml;uten&quot;  bei&nbsp; Grom zu erlernen, damit auch ein  Lehrer in Khorinis zur Verf&uuml;gung steht.</li>
+          <li>Gerbrandt rennt nun zum Hafen, wenn man ihm  Diegos Brief gibt, statt zu gehen.</li>
+          <li>Engrom flieht jetzt zum Pass, wenn man ihn als  Magier auf seine Besessenheit anspricht, statt zur&uuml;ck zu Talbin. Talbin wird nach dem Wechsel nach  Khorinis etwas weiter am Pass platziert, sodass er nicht sofort von Blutfliegen  Waranen oder Drachensnappern attackiert wird.</li>
+          <li>Talbin steht nach seiner Flucht aus  dem Minental in Khorinis als Lehrer f&uuml;r Jagdtalente zur Verf&uuml;gung.</li>
+          <li>Talbin jagt Lurker. Er  bringt einem also nun Tiere h&auml;uten statt Felle abziehen bei. Das passt auch wesentlich besser zum Lern-Dialog.</li>
+          <li>Auswahloption f&uuml;r die Anzahl der zu kochenden Fischsuppen bei Edda hinzugef&uuml;gt.</li>
+          <li><span class="Stil31">Kommando-Befehle f&uuml;r Biff: Er l&auml;sst sich jetzt per &quot;Warte hier!&quot; am n&auml;chsten Waypoint &quot;parken&quot; und durch &quot;Komm mit!&quot; wieder mitnehmen.</span><br>
+            <br>
+            <br>
+          </li>
+        </ul>
+      </li>
+    <li><u><strong><a name="Features_Items"></a></strong></u><strong>Items</strong> <br>
+          <br>
+            <ul>
+              <li>Der Schweren  Drachenj&auml;gerr&uuml;stung wurden die Klingen am Helm wieder hinzugef&uuml;gt, wie sie noch  auf den ersten Screenshots zu Gothic II zu sehen waren.</li>
+              <li>Eisenerz hacken - In vielen  H&ouml;hlen wurden Eisenerzadern platziert, dort kann Eisenerz gesch&uuml;rft werden. Das  Erz kann bei Schmieden gegen Rohstahl getauscht werden. (<a href="#Lehrlinge_Schmied" target="_self">Details</a>)</li>
+              <li>Schmiedeoptionen bei Jan  und Dobar ausgebaut.</li>
+              <li>Reichweite der Waffen wird  in der Inventarbeschreibung angezeigt</li>
+              <li>Es ist nun m&ouml;glich mehrere  Fleischst&uuml;cke auf einmal am Herd oder Lagerfeuer zu braten (per Auswahl-Dialog)</li>
+              <li>Zuris klaut man nun mit  Tachendiebstahl einen 'Trank der St&auml;rke', allerdings wurde auch die  Geschicklichkeitsanforderung entsprechend angehoben.</li>
+              <li>Die antike R&uuml;stung  (Raven's R&uuml;stung) ist nun f&uuml;r den Spieler erh&auml;ltlich</li>
+              <li>Als Lehrling bekommt man  nun, je nach Job, eine Arbeitskleidung + dazu passende G&uuml;rtel.</li>
+              <li>Esteban hat nun den  Schl&uuml;ssel f&uuml;r seine Truhe (steht neben ihm) im Inventar.</li>
+              <li>3 neue Runen:
+                <ul>
+                  <li>Eiswolf beschw&ouml;ren (3.  Kreis) - zu erlernen bei Nefarius im 3. Kapitel</li>
+                  <li>Zeitspalt (5. Kreis) - alternative  Rune der Klaue Beliars - hat den Effekt des schwarzen Erzes)</li>
+                  <li>D&auml;monenlord beschw&ouml;ren (6.  Kreis) - zu erlernen bei Karras</li>
+                </ul>
+              </li>
+              <li>Nefarius', Gorax' und Zuris'  Bestand an Mana Essenzen und - Extrakten regeneriert sich nun, sobald der  Spieler alle aufkauft. W&auml;hrend in den ersten Kapiteln nur Essenzen oder Extrakte  regeneriert werden, kommen sp&auml;ter auch Elexiere hinzu.</li>
+              <li>Das 'Seelenruf-Amulett' zum  Schutz gegen die Suchenden schadet diese nun auch nach einem Gespr&auml;ch. Der  Suchende verliert hierbei die H&auml;lfte seiner HP. Dadurch sollte es ein Magier  nun etwas leichter haben. Au&szlig;erdem war das Amulett ansonsten recht nutzlos, da  man die Suchenden als Magier doch eher auf Distanz erledigt und es kaum zu Gespr&auml;chen  kommt.<br>
+              Jetzt kann sich der Spieler entscheiden, ob er den Suchenden im Fernkampf per  Magier besiegt oder mit ihm spricht und so schadet, im Nahkampf aber  verwundbarer wird.</li>
+              <li>Teleportrune zum  Sonnenkreis - zu finden im Inventar eines Suchenden am Sonnenkreis. Das sollte  die nervige Lauferei in den Norden etwas entspannen.</li>
+              <li>Cronos verkauft einem in  Jharkendar nun eine Teleportrune zum Tempelportal in Khorinis.</li>
+              <li>Bei Samuel kann man nun per  Taschendiebstahl das Rezept f&uuml;r den &quot;Schnellen Hering&quot; stehlen. Nach  dem Lesen kann der Held den Schnaps selbst herstellen. </li>
+              <li>Wen es auch schon immer  genervt hat, dass Gestath f&uuml;r das 2. Kapitel etwas ung&uuml;nstig platziert ist,  kann jetzt geholfen werden: Im alten Magierhaus in der Burg findet sich jetzt  eine Spruchrolle, die einen zu Gestath teleportiert, sodass man sich problemlos  die Info &uuml;ber die Crawlerr&uuml;stung holen kann. </li>
+              <li>Dem Ritter, der in der Burg  die T&uuml;r zur ehemaligen Schmiede bewacht, kann man den Schl&uuml;ssel dazu nun auch  stehlen.</li>
+              <li>Rune &quot;Mittlere Wunden  heilen&quot; in der Mine im Canyon der Addonwelt gegen &quot;Leichte Wunden  heilen&quot; ersetzt.</li>
+              <li>Milten und Vatras haben auf Irdorath nun auch einige  Laborwasserflaschen im Gep&auml;ck.</li>
+              <li>Angar tr&auml;gt wieder  &quot;Roter Wind&quot;.</li>
+              <li>Als Gildenloser  findet man &quot;Roter Wind&quot; im Inventar eines Suchenden am Sonnenkreis. </li>
+              <li>Wer es schafft, die Klaue  auf Level 20 aufzuleveln wird mit einem neuen Effekt um die Klinge herum  belohnt.</li>
+              <li>Man erh&auml;lt von Peck Zweihandschwerter, falls das Zweihandtalent h&ouml;her ist als das Einhandtalent.</li>
+              <li>Spitzhacken sind nun stapelbar.<br>
+                <br>
+                <br>
+              </li>
+        </ul>
+      </li>
+    <li><u><strong><a name="Features_Sonstiges"></a></strong></u><strong>Sonstiges</strong> <br>
+      <br>
+        <ul>
+          <li>Hotkeys eingebunden (<a href="#Details_Hotkeys" target="_self">Details</a>)</li>
+          <li><span class="Stil31">Schwierigkeitsgrad in 4 Stufen implementiert <span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">(Details in der <a
+href="g2_minimod_readme.html#Details_Schwierigkeit" target="_blank">ReadMe</a>)
+                <o:p></o:p>
+          </span></span></li>
+          <li>erweitertes Lehrlingssystem  (<a href="#Details_Lehringe" target="_self">Details</a>)</li>
+          <li>Sicherheitsabfrage bei &quot;Neues Spiel starten&quot; (Ja / Nein) hinzugef&uuml;gt</li>
+          <li>Gangart des Helden passt  sich der Gilde an</li>
+          <li>Der Held bekommt bei seiner  Aufnahme bei der Miliz, den S&ouml;ldnern oder Novizen eine kurze Hose und freien  Oberk&ouml;rper, damit keine Teile seiner Standard-Klamotten mehr sichtbar sind,  wenn er die entsprechenden Gilden-R&uuml;stungen tr&auml;gt. </li>
+          <li>Sch&ouml;nheitskorrektur im  Buchst&auml;nder &uuml;ber Jagdtalente: Tiere h&auml;uten wird nicht mehr unter &quot;Felle  abziehen&quot; aufgef&uuml;hrt, sondern in einem separaten Absatz.</li>
+          <li>Zus&auml;tzliche Schlafoption &quot;Bis zum Morgengrauen&quot;</li>
+          <li>Es k&ouml;nnen nun auch mehr als ein Heil- oder Manatrank gleichzeitig gebraut werden.<br>
+            <br>
+          </li>
+        </ul>
+    </li>
+    </ul>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="3" type="a">
+  <li><span class="Stil8"><a name="Aenderungen_Bugfixes"></a><u>Bugfixes<br>
+    <br>
+  </u></span>
+    <ul type="disc">
+      <li>Fizzban's Script-Patch  integriert</li>
+      <li>zus&auml;tzlich Lord Sargons  Script-Patch wurde integriert (<a href="#Details_Scriptpatch">Details</a>)</li>
+      <li>Wenn man im 3. Kapitel eine  Waffe von Peck haben wollte, sprach Peck den Dialog des Helden - &gt; wurde  behoben.</li>
+      <li>Nach der Pr&uuml;fung des Feuers  wird man nun auch von Igaraz angesprochen und angegriffen, wie es eigentlich  sein sollte.</li>
+      <li>Im Dialog mit Pardos in der  Addonwelt sprach der Held einen Satz mit der Stimme Pardos' &ndash; gefixt</li>
+      <li>Der Held gibt Hannah die  'sehr alte Karte' nicht &ndash; gefixt</li>
+      <li>Rohstahl kann nun nicht  mehr bei H&auml;ndlern gekauft werden, die nebenbei Schmied sind. Dadurch wird der  Rohstahl-Exploit bei Bennet und Huno umgangen. (<a href="#Lehrlinge_Schmied" target="_self">Details</a>)</li>
+      <li>Cassia greift einen nun  nicht mehr nach 2 Tagen an, wenn man zuvor die Gespr&auml;chsoption &bdquo;<em>Ich muss mir das &uuml;berlegen.</em>&quot; w&auml;hlt,  dann aber doch der Diebesgilde beitreten m&ouml;chte.</li>
+      <li>Der Quest &quot;Isgaroth's  Problem&quot; ist nun auch noch abschlie&szlig;bar, wenn man bereits Zugang zur  Bibliothek hat.</li>
+      <li>Durch einen Exploit war  Francis' Tagebuch unendlich oft abzugeben. Das Buch wird nach der &Uuml;bergabe nun  entfernen.</li>
+      <li>Wurde vor einer Verwandlung  oder Beschw&ouml;rung Schwarzes Erz benutzt, bewegte sich der Held nach  R&uuml;ckverwandlung oder alle beschworenen Kreaturen schneller. Der Effekt wird nun  vor einer Verwandlung / Beschw&ouml;rung deaktiviert.</li>
+      <li>Der Zauber  &quot;Angst&quot; f&uuml;hrt nun nichtmehr dazu, dass NPCs ewig fliehen. Stattdessen  greifen sie nach Ablauf der 5 Sekunden wieder an.</li>
+      <li>Man kann Nagur nun auch  dann noch an die Miliz ausliefern, wenn man das Paket von Akil bereits Baltram  gegeben hat.</li>
+      <li>Beten am Innos-Schrein auch am 1. Tag</li>
+      <li>&Auml;nderung im Dialog mit Lord Hagen. Er sagt nun nicht  mehr: &quot;Nimm diesen Brief. Er wird dir die Klostertore &ouml;ffnen.&quot;, wenn  man bereits Feuermagier oder anderweitig Zugang zum Kloster bekommen hat,  sondern nur noch:&nbsp; &quot;Nimm diesen  Brief. &quot;</li>
+      <li>Wenn man Gaan fragt, was die Jagd macht,  erscheint nicht jedesmal erneut die Meldung &quot;Neuer Tagebucheintrag&quot;.</li>
+      <li>Beim Anlegen von Roben und G&uuml;rteln wird nun auch  der aktuelle Manawert gesteigert und beim Ablegen wieder verringert.</li>
+      <li>Die Wertvolle Innosstatue wird nun als  Questgegenstand gewertet. Die Leiche des Schwarzen Goblins verschwindet nun  nicht mehr, bevor die Statue nicht aus seinem Inventar genommen wurde.</li>
+      <li>Man &uuml;bergibt Cavalorn nun nicht noch zus&auml;tzlich  einen Erzbrocken, wenn man ihm seinen Beutel aus dem Minental wiederbringt.</li>
+      <li>EXP-Anzeige beim Wettsaufen-Quest korrigiert und  EXP neu verteilt: Man bekam 100 EXP von Orlan nachdem das Wettsaufen vorbei  war, es wurden aber nur 50 EXP angezeigt. Nun bekommt man die angegebenen 50  EXP und 100 statt 50 von Rukhar, falls man gewinnt.</li>
+      <li>Beim erbeten von Lebensenergie an  Innos-Schreinen wird der Held vollst&auml;ndig geheilt.</li>
+      <li>Der Held antwortet auf Jergans Frage, ob er dem  Rudelf&uuml;hrer die Krallen abgezogen h&auml;tte, nun auch mit &quot;Ja&quot;, wenn er  die Krallen zwar nicht mehr im Inventar hat, aber schon bei Lutero abgegeben  wurden.</li>
+      <li>Die LP-Anzeige bei Scatty f&uuml;rs Goldhacken wurde  korrigiert (1 LP, statt 2).EXP-Exploit mit Angar auf Irdorath entfernt. Man  konnte Angar vor den Schalterhallen auf Irdorath (wenn er nicht mehr weiter  will) immer wieder als Begleiter anheuern und wieder entlassen und bekam  jedesmal 300 EXP daf&uuml;r.</li>
+      <li>Beim Lesen der Rezepte &quot;Reines Mana&quot;,  &quot;Reine Lebensenergie&quot; sowie bei der Schriftrolle des Schwarzmagiers  gibt es beim wiederholten Mal keinen neuen Tagebucheintrag mehr. </li>
+      <li>Bei Lares'  Dialogoption &quot;Wegen der verschwundenen Leute&quot; -&gt; &quot;Erz&auml;hl mir,  was du wei&szlig;t.&quot; gibt es nicht mehr jedesmal einen neuen Tagebucheintrag.</li>
+      <li>Der Satz &quot;Ich  denke, du bist mal wieder reif f&uuml;r eine Tracht Pr&uuml;gel&quot; bei Fester ist erst  dann anw&auml;hlbar, wenn man bereits min. einmal gegen ihn gek&auml;mpft hat.</li>
+      <li>Lobart verbilligt  die Kleidung f&uuml;rs R&uuml;ben ziehen nur, wenn man sich von ihm vorher nicht 5  Goldst&uuml;cke daf&uuml;r hat geben lassen.</li>
+      <li>Schl&auml;gerei-Verhalten  mancher B&uuml;rger im Hafenviertel korrigiert. Sie greifen nun nicht mehr in K&auml;mpfe  ein, sondern feuern die Kontrahenten an.</li>
+      <li>Permanente Dialogoption bei Lord Andre &quot;Ich glaube, Cornelius l&uuml;gt&quot; entfernt.</li>
+      <li>Corneliusverschwindet in seltenen F&auml;llen nach Anklage bei Lord Hagen nicht mehr spurlos</li>
+      <li>Parlan wird nun als Lehrer (Mana) f&uuml;r Paladine eingetragen</li>
+      <li>Man kann Saturas nun sofort nach der Befreiung der Gefangenen auf selbige ansprechen.</li>
+      <li>Wenn man Snaf &uuml;ber Huno ausfragt, sagt er zum Schluss &quot;Diese Info ist nat&uuml;rlich umsonst&quot;, selbst wenn man die Infos von ihm ohnehin schon umsonst bekommt, weil man ihm Lous Hammer gebracht hat.</li>
+      <li>Zeigte man Vatras Dexters Brief, bekam man nur f&uuml;r diesen EXP, nicht aber f&uuml;r die anderen Beweise. Es sei denn, man zeigte ihm die Beweise nacheinander (ohne den Brief zu besitzen).</li>
+      <li>Schwer zu erreichender Ring beim Steinkreis im &ouml;stlichen Wald besser platziert.</li>
+      <li>Schwer zu erreichende Goldm&uuml;nzen unter (!) der Truhe mit dem Orkschl&auml;chter auf der Pyramidenspitze neu platziert.</li>
+      <li>Bei manchen Truhen wurde die Bezeichnung &quot;Truhe&quot; nicht angezeigt.</li>
+      <li>Jesper geh&ouml;rt nicht mehr der Gilde &quot;Bandit&quot; an (weshalb er von Cassia und Ramirez bei einem Angriff gern get&ouml;tet wurde).</li>
+      <li><span class="Stil31">Goblins haben nun keinen &quot;Reservekn&uuml;ppel&quot; mehr im Inventar.</span></li>
+      <li>Bei Ramirez, Cassia und Jesper werden die LP-Kosten f&uuml;r die Diebestalente nun angezeigt.</li>
+      <li>Diego spricht einen nun  nicht mehr ein weiteres Mal an der Verlassenen Mine an, falls man mit ihm zuvor  noch am Austauschplatz war und den Nostalgie-Bonus erhalten hat.</li>
+      <li>Es werden nun in  jedem Lerndialog die Lernpunktkosten f&uuml;r die magischen Kreise angezeigt.</li>
+      <li>Bei Jergan werden die LP-Kosten f&uuml;rs Krallen ziehen nun angezeigt.</li>
+      <li><span class="Stil31">Man kann Vatras nun auch auf die Alten Steintafeln ansprechen, wenn man eine attributssteigernde <u>oder</u> eine Alte Steintafel im Inventar hat.</span></li>
+      <li>Die Truhe in der Burg zwischen Miltens und Garonds Wohnheimen lie&szlig; sich nicht &ouml;ffnen.</li>
+      <li>Lobart verbilligt die Kleidung f&uuml;rs R&uuml;ben ziehen nur, wenn man sich von ihm vorher nicht 5 Goldst&uuml;cke daf&uuml;r hat geben lassen.</li>
+      <li>Fleischlieferungen an Engor werden nun nicht mehr bei unterschiedlichen Fleischarten fehlerhaft abgerechnet.</li>
+      <li>Sentenza spricht einen nicht mehrere Male auf den Wegzoll an, wenn man ihn umgeht und dabei noch von Raoul erwischt wird.</li>
+      <li><span class="Stil31">Greg greift beim Pl&uuml;ndern nach dem Kampf gegen Dexter und seine Banditen nicht mehr f&auml;lschlicherweise auf das Inventar des Helden zu und klaut all sein Gold.</span><br>
+        <br>
+      </li>
+    </ul>
+  </li>
+  </ol>
+<blockquote>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="4" type="a">
+  <li><span class="Stil8"><strong><a name="Aenderungen_Logikfixes"></a><u>Logikfixes</u></strong></span><strong><u><br>
+    <br>
+  </u></strong>
+    <ul type="disc">
+      <li>Hilda lag nach Abgabe der Medizin noch im Bett (im darauffolgenden Kapitel geht sie nun wieder ihrer Arbeit nach) </li>
+      <li>Dialog mit dem Untoten Drachen angepasst: Er  spricht den Helden nun nicht mehr darauf an, dass er die Klaue Beliars tragen  w&uuml;rde, wenn er sie gar nicht dabei hat.</li>
+      <li>Rosi  verkauft nicht mehr mit die besten B&ouml;gen im Spiel</li>
+      <li>Gef&auml;ngnisinsassen tragen keine Waffen mehr.</li>
+      <li>Edda nimmt nun auch die  wertvolle Innosstatue an.</li>
+      <li>Engrom flieht jetzt zum Pass, wenn man ihn als Magier auf seine Besessenheit anspricht, statt zur&uuml;ck zu Talbin. </li>
+      <li>Thorben verlangt keine 200 Goldst&uuml;cke mehr  daf&uuml;r, dass er einem &quot;Schl&ouml;sser knacken&quot; beibringt, wenn man ihm  bereits Lehmars Schuldenbuch gebracht hat.<br>
+        <br>
+      </li>
+    </ul>
+  </li>
+  </ol>
+<blockquote>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="5" type="a">
+  <li><strong class="Stil8"><a name="Aenderungen_Kosmetik"></a><u>Kosmetische &Auml;nderungen</u></strong><br>
+    <br>
+    <ul type="disc">
+      <li><span name="Aenderungen_Bugfixes">Leichte farbliche &Auml;nderungen  beim Aussehen der Magier-St&auml;be f&uuml;r mehr Abwechslung</span></li>
+        <li>gr&ouml;&szlig;eres Armbrust-Mesh f&uuml;r &quot;Dragomirs Armbrust&quot;<strong><span class="Stil32" name="Aenderungen_Bugfixes"><u><br>  
+          <br>
+        </u></span></strong></li>
+      </ul>
+    </li>
+</ol>
+<ol></li>
+</ol>
+<div class="Stil9">
+  <p><span class="Stil7" style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none">4. <u><a name="MAIN_BekannteBugs" id="MAIN_BekannteBugs"></a></u>Bekannte Fehler</span></p>
+</div>
+<blockquote>
+  <p><em>&quot;Nobody is perfect!&quot;</em>, und so gibt es auch in dieser Mod ein paar Kleinigkeiten, die leider nicht so geworden sind, wie sie sollten.</p>
+</blockquote>
+<ul>
+  <li><strong>Beim Wegstecken einer Fernkampfwaffe mit eingelegtem Munitionsyp &quot;Stachel Beliars&quot; f&auml;llt immer ein Pfeil oder Bolzen dieses Typs - je nachdem - auf den Boden.</strong><br>
+    Der Fehler ist, wie ich das ehe, leider nicht so ohne weiteres zu beheben, hat aber auch keinen spielerischen Nachteil. Der Stachel Beliars ist ohnehin praktisch wertlos, was den Verkaufswert angeht. Als Exploit l&auml;sst sich dieser Bug also nicht ausnutzen. Aufgesammelte &quot;Stachel&quot; verschwinden zudem beim n&auml;chsten Upgrade am Beliarschrein.<br>
+    Bis oder falls mir eine L&ouml;sung f&uuml;r dieses Problem einf&auml;llt, sagen wir einfach, dass der Held selbst nichts mit den ganzen Pfeilen / Bolzen (die sich schlie&szlig;lich immer wieder nachf&uuml;llen) anzufangen wei&szlig; und einfach wegwirft. Greenpeace wird sich freuen, aber die gibt's in Myrthana allem Anschein nach ja auch nicht. ;-)<br>
+    <br>
+  </li>
+  <li><strong>Das Verbessern von Pfeilen und Bolzen am Amboss erfordert 1 gl&uuml;henden Rohstahl im Inventar, damit der Amboss benutzbar wird.</strong><br>
+  Kein wirklicher Fehler, aber von der Logik her nicht wirklich stimmig, immerhin erfordert das Verbessern der jeweiligen Munitionstypen gar keinen Rohstahl.<br>
+    <br>
+  Zur Erkl&auml;rung: Die Benutzung des Ambosses erfordert generell das Item &quot;Gl&uuml;hender Rohstahl&quot;. Das k&ouml;nnte man &auml;ndern, sodass der Amboss, ein sog. Mobsi (ein interaktives Objekt mit dem die Spielfigur interagieren kann), auch benutzbar wird, wenn sich kein gl&uuml;hender Rohstahl im Inventar befindet. In dem Fall w&uuml;rde das Item erst bei der Benutzung generiert und der Spielfigur in die Hand gegeben und nach der Benutzung wieder entfernt werden. Dann stellt sich aber die Frage, woher unser Held pl&ouml;tzlich den gl&uuml;henden Stahl hat, ohne jemals am Schmiedeofen gestanden zu haben. Dabei bietet das Spiel extra die M&ouml;glichkeit, dieses Item an besagtem Ofen herzustellen. Es l&auml;sst sich n&auml;mlich im Voraus leider nicht Differenzieren, ob das Mobsi nun zur Schwertherstellung oder Munitionsverbesserung genutzt werden soll.<br>
+    <br>
+  Die zweite M&ouml;glichkeit w&auml;re gewesen, den gl&uuml;henden Stahl in den Herstellungsprozess mit einzubeziehen. Leider ist mir keine stimmige Erkl&auml;rung eingefallen, warum man gl&uuml;henden Stahl zur Verbesserung eines Pfeils / Bolzens brauchen k&ouml;nnte, sodass das Geschoss danach auch noch bessere Flugeigenschaften hat oder mehr Schaden anrichtet (wof&uuml;r beim Spitzen Pfeil / Bolzen ja schon der Tierzahn zust&auml;ndig ist...). Ergo: Auch nicht die beste L&ouml;sung.<br>
+    <br>
+  Die einzige und optimalste L&ouml;sung w&auml;re es gewesen, ein v&ouml;llig neues Mobsi, speziell f&uuml;r die Munitionsherstellung zu erstellen und den Amboss weiterhin nur f&uuml;rs Schwerter-schmieden zu verwenden. Ein passendes Objekt daf&uuml;r steht sogar zur freien Verf&uuml;gung in der Modder-Datenbank - eine Werkbank. <br>
+    Das Problem: Es fehlt die passende Animation. Da ich aber au&szlig;er Scripten und allenfalls Texturieren nix vern&uuml;nftiges kann, sind Animationen also nicht gerade mein Spezialgebiet. Mich f&uuml;r eine einzige Anwendung aber mit dem Thema auseinander zu setzen ist mir dann aber doch ein zu gro&szlig;er Aufwand. Das &uuml;berlasse ich dann lieber Leuten, die die Zeit und auch die Ambition dazu haben. ;-)<br>
+    <br>
+  Es l&auml;uft also darauf hinaus, dass auch die Pfeil- und Bolzenherstellung gl&uuml;henden Stahl erfordert. Nicht die beste L&ouml;sung, aber meiner Meinung nach auch nicht schlechter als die beiden oben beschriebenen Alternativen (die Werkbank-Option mal au&szlig;en vor gelassen). Nach der Herstellung eines Munitionstyps gibt es den gl&uuml;henden Stahl &uuml;brigens zur&uuml;ck. Sodass man f&uuml;rs n&auml;chste Mal gleich wieder welchen zur Verf&uuml;gung hat, ohne vorher den Schmiedeofen nutzen zu m&uuml;ssen. <br>
+    (OK, da l&auml;sst sich auch dr&uuml;ber streiten, ob unserem Helden dann nicht irgendwann hei&szlig; in der Hosentasche wird. Aber wer 20 Streit&auml;xte, 10 schwere Zweih&auml;nder und was sonst noch alles tragen kann, kann  auch das ab. ;-) )<br>
+    <br>
+    &Auml;hnliches gilt &uuml;brigens auch f&uuml;r die Herstellung vergifteter Pfeile oder Bolzen am Alchemietisch. Auch hier wird eine Laborwasserflasche ben&ouml;tigt, die man nach der Herstellung zur&uuml;ck erh&auml;lt. Nur sehe ich hier keinen Logikfehler, denn das Gift muss schlie&szlig;lich in einer solchen Flasche hergestellt werden, die danach aber weiter verwendet werden kann. Nur das Aussp&uuml;len sollte unser Held lieber nicht vergessen. ;-)</li>
+  </ul>
+<p>&nbsp;</p>
+<div class="Stil9">
+  <p><span class="Stil7" style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none">5.<span class="Stil7" style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none"><u><a name="MAIN_Outtakes" id="MAIN_BekannteBugs2"></a></u></span>Outtakes</span></p>
+</div>
+<blockquote>
+  <p>Neben dem was drin ist und dem was drin sein sollte gibt es auch einiges, was es aus verschiedenen Gr&uuml;nden nicht in die fertige Mod geschafft hat.</p>
+  </blockquote>
+<ul>
+  <li><strong>[Feature] neuer Finishing Move f&uuml;r stumpfe Waffen</strong><br>
+  (Schmerzt mich pers&ouml;nlich am meisten, auch wenn es nur eine Kleinigkeit ist.)<br>
+  Das Ph&auml;nomen kennen wohl die meisten. Unser Held, bewaffnet mit Berserkeraxt oder Kriegshammer, will dem am Boden liegenden Gegner den Gnadensto&szlig; verpassen und tut dies auch wortw&ouml;rtlich. Statt zu schlagen durchbohrt unser Held den Gegner mit dem 20 Kilo-Hammer... Gut, so hat der recht brutale T&ouml;tungsvorgang auch seine komischen Seiten. ;-)<br>
+  Trotzdem hatte ich es mir zur Aufgabe gemacht, das zu &auml;ndern. Gothic 3 macht das schon ganz gut vor. Der Held holt aus und schl&auml;gt ein letztes Mal auf den ausgeknockten Gegner ein, hier aber leider sowohl mit Schwert, als auch Hammer oder Axt. Aber die Idee war gut und wie es der Zufall wollte gibt es sogar eine vorhandene Animation, die sich bestens daf&uuml;r eignet. Dachte ich zumindest...<br>
+  Die Rede ist von der Hack-Animation, die bei den Schatzkreuzen zum Einsatz kommt. Dort wird sie zwar mehrmals durchlaufen, aber das l&auml;sst sich recht leicht reduzieren. Also wurde die Animation testweise so implementiert.<br>
+  Klingt alles super bis hierhin. War es auch. Nur leider ist die Animation darauf ausgelegt, mit dem Wegstecken der Waffe beendet zu werden. D.h. wird die Waffe nicht weggesteckt, sondern wieder in Kampfposition gebracht, f&uuml;hrt das dazu, dass die Animation sehr unsch&ouml;nen <em>abgehackt</em> endet.<br>
+  Und so war der Traum auch schon aus, vom neuen Finishing Move. Wie ich beim <a href="#MAIN_BekannteBugs">Rohstahl-Problem</a> schon erl&auml;utert habe, habe ich keine Ahnung wie man Animationen erstellt, geschweige denn bearbeitet. Da doch lieber bei der funktionieren Variante bleiben, statt es zu <em>verschlimmbessern</em>.<br>
+  <br>
+  </li>
+  <li><strong>[Bugfix]    Man konnte bei Thekla die Kr&auml;uter f&uuml;r den 2. Eintopf nach Bennets Befreiung nicht mehr abgeben<br>
+  </strong>Auch ein bekannter Fehler, der aber gar kein Fehler ist. Tats&auml;chlich ist es so vorgesehen, dass die Eint&ouml;pfe pro Kapitel limitiert sind. Und wie das nunmal so ist: <em>Wer zu sp&auml;t kommt, den bestraft das Leben.</em> Demnach habe ich hier doch nichts ge&auml;ndert. Zuerst hatte ich mir zwar &uuml;berlegt, den Auftrag mit Eintritt in das 3. Kapitel abzubrechen, aber das scheint mir auch nicht optimal - im Gegenteil. Die meisten Spieler d&uuml;rfte es eher verwirren, wenn mitten im Spiel pl&ouml;tzlich eine Quest scheitert und das ohne Feedback warum. Schlie&szlig;lich gibt Thekla keine Zeitspanne vor, in dem die Kr&auml;uter zu beschaffen seien. Und einen weiteren unvertonten Dialog, wollte ich hierf&uuml;r nicht extra einf&uuml;gen. Es bleibt also, wie es ist.<br>
+    <br>
+  </li>
+  <li><strong>[Bugfix] Lobart st&ouml;rt sich trotz Warnung nicht daran, wenn man andere Sachen au&szlig;er der Bauernkleidung aus seiner Truhe entfernt<br>
+  </strong>Auch ein Bug, der letztendlich nicht gefixt wurde. Der Grund ist recht einfach. es gab einfach kein passendes Dialogfragment, mit dem Lobart den Diebstahl &uuml;berzeugend kommentieren konnte. Au&szlig;erdem: Wer klaut schon den K&auml;se, wenn gleich daneben eine R&uuml;stung liegt? ;-)<br>
+        <strong><br>
+        </strong></li>
+  <li><strong>[Bugfix] Felle werden manchmal nicht korrekt aus Bospers Inventar entfernt</strong><br>
+  Ich bin mir nicht sicher, ob es sich hier um einen Fehler in der MiniMod handelt oder ob das Problem auch schon in der Grundversion auftaucht. Ich konnte ihn auch nicht reproduzieren und eine eindeutige Ursache habe ich auch nicht gefunden. Ist ja im Grunde auch keine tragische Sache. Dann hat der J&auml;ger seine Felle halt etwas l&auml;nger im Angebot. So schnell gammeln die nicht. ;-)<br>
+    <br>
+  </li>
+  <li><strong>[Logik] Handel mit Khaled nicht mehr als Milizsoldat / Paladin</strong><br>
+  K&ouml;nigstruppen m&ouml;gen keine S&ouml;ldner und S&ouml;ldner m&ouml;gen keine K&ouml;nigstruppen. Dementsprechend sollte Khaled solchen auch nichts verkaufen, denn er mag sie ja nicht. Er tut's aber trotzdem. Zumindest, wenn man nicht bereits an der Aufnahmepr&uuml;fung zum S&ouml;ldner teilgenommen hat. Auch hier war der Grund simpel. Der passende, vertonte Kommentar fehlte.<br>
+    Sagen wir also, Lee wusste unser Engagement als potentieller Nachwuchs-S&ouml;ldner zu w&uuml;rdigen und hat dann ein gutes Wort f&uuml;r unseren k&ouml;nigstreuen Helden eingelegt. ;-)<br>
+        <br>
+    </li>
+  <li><strong>[Bugfix] Das Irrlicht am See in der N&auml;he der H&ouml;hle der Feuerpr&uuml;fung h&auml;ngt ein paar Meter &uuml;berm Boden im Baum fest<br>
+  </strong>Kann manchmal vorkommen, ist aber wohl nur zu verhindern, indem der Spawnpoint m&ouml;glichst weit vom n&auml;chsten Baum gesetzt wird. Ich finde aber, in Irrlicht macht sich im Wald besser, als auf der Wiese und so finde ich &quot;das Irrlicht, das hoch hinaus wollte&quot; (und die 30 EXP, die es dabei hat...) vernachl&auml;ssigbar.<br>
+    Au&szlig;erdem: Wer sagt, dass Irrlichter nicht auf B&auml;ume klettern k&ouml;nnen? ;-)<br>
+            <strong><br>
+            </strong></li>
+  <li><strong>[Feature] Dialog reaktiviert: Hilda reagiert nun ebenfalls auf den Diebstahl der Bauernkleidung</strong><br>
+    Voller Freude hatte ich in den Scripts einen auskommentierten Dialog gefunden, der es leider nicht ins Spiel geschafft hatte und wollte ihn sogleich aktivieren. Dummerweise war der Grund, weshalb der Dialog nicht da war, die Tatsache, dass der Dialog nicht da war. Soll hei&szlig;en: keine Vertonung. Und so ist der Dialog auch weiterhin nicht da.<br>
+  </li>
+  </ul>
+<p>&nbsp;</p>
+<div class="Stil9">
+  <p><span class="Stil7" style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none">6. <u><a name="MAIN_Details"></a></u>&Auml;nderungen im Detail</span></p>
+</div>
+<ol type="a" class="Stil26">
+  <li class="Stil8"><strong><a name="Details_Lernpunkte"></a>D<span class="Stil5"
+style='mso-bookmark:_Ref186786489'>etails zum
+    ver&auml;nderten Lernpunktesystem</span></strong></li>
+</ol>
+<blockquote>
+  <p><strong>   </strong>Das Kostensystem f&uuml;r  Lernpunkte wurde so umgestellt, dass keine Boni wie Steintafeln, Tr&auml;nke, etc. mehr  in die Kostenberechnung mit einflie&szlig;en. Die Kosten f&uuml;r eine F&auml;higkeit / ein  Attribut steigen jetzt erst ab den tats&auml;chlich ausgegebenen Lernpunkten:</p>
+  <table border="1" cellpadding="0" cellspacing="0" bordercolor="#333333">
+      <tr>
+        <td width="104" valign="top"><p align="center"><strong>gelernte<br>
+        Attributspunkte</strong></p></td>
+        <td width="110" valign="top" bordercolor="#333333"><p align="center"><strong>Lernpunkte    pro<br>
+        Attributspunkt</strong></p></td>
+      </tr>
+      <tr>
+        <td width="104" valign="top"><p align="center">0 &ndash; 19</p></td>
+        <td width="110" valign="top" bordercolor="#333333"><p align="center">1</p></td>
+      </tr>
+      <tr>
+        <td width="104" valign="top"><p align="center">20 &ndash; 49</p></td>
+        <td width="110" valign="top" bordercolor="#333333"><p align="center">2</p></td>
+      </tr>
+      <tr>
+        <td width="104" valign="top"><p align="center">50 &ndash; 79</p></td>
+        <td width="110" valign="top" bordercolor="#333333"><p align="center">3</p></td>
+      </tr>
+      <tr>
+        <td width="104" valign="top"><p align="center">90 &ndash; 109</p></td>
+        <td width="110" valign="top" bordercolor="#333333"><p align="center">4</p></td>
+      </tr>
+      <tr>
+        <td width="104" valign="top"><p align="center">110 und mehr</p></td>
+        <td width="110" valign="top" bordercolor="#333333"><p align="center">5</p></td>
+      </tr>
+    </table>
+  <p>Das System f&uuml;hrt nicht  dazu, dass der Spieler &uuml;berm&auml;chtig wird! Die Anzahl der ausgegebenen Lernpunkte  im gesamten Spiel bleiben, gegen&uuml;ber der Original-Version, weitestgehend  gleich. Allerdings steigen die Attribute und F&auml;higkeiten am Anfang nun etwas  schneller, weil man Boni nun nicht mehr bis zum Schluss aufbewahren muss, um  auf hohe Werte zu kommen, ohne am Ende enorm viele Lernpunkte pro  Attributspunkt ausgeben zu m&uuml;ssen. Dadurch wird der relativ hohe Schwierigkeitsgrad  von Gothic II - DNdR (gerade beim Spielen eines Feuermagiers) zu Anfang etwas  herunter geregelt.</p>
+  <p>Au&szlig;erdem ist es nun nicht  mehr m&ouml;glich das System auszutricksen, indem man bis kurz vor eine Kostengrenze  skillt und diese dann um mehrere Punkte &uuml;berschreitet, die dann noch zum alten  Preis berechnet wurden. Nun werden alle Punkte &uuml;ber der Kostengrenze mit dem  neuen LP-Preis multipliziert. Der Gesamtpreis wird nat&uuml;rlich im Lerndialog  angezeigt.</p>
+  <p>Eine weitere &Auml;nderung  betrifft das &bdquo;Mitziehen&ldquo; eines Talents ab einer Differenz von 30 Punkten  gegen&uuml;ber des verwandten Talents. So ist das verwandte Talent des Einhandkampfs  der Zweihandkampf und des Bogens die Armbrust und umgekehrt. Die Differenz wird  nun beim Mitziehen nicht mehr &uuml;berschritten. Das l&auml;sst sich am besten anhand  eines Beispiels erkl&auml;ren:<br>
+    Es wurden 53% Einhandkampf  gelernt und 25% Zweihandkampf. Beim Steigern des Einhandkampfes um 5% (= 58%)  wurde vorher auch der Zweihandkampf um 5% mitgezogen (= 30%), da die Differenz  der beiden Werte &gt;= 30 war. Jetzt aber wird der Zweihandkampf nur noch auf 28%  gesteigert (+3%), damit die Differenz in jedem Fall eingehalten wird.</p>
+  <hr>
+  <p>&nbsp;</p>
+  </blockquote>
+<ol start="2" type="a" class="Stil57">
+  <li><a name="Details_Beten" id="Details_Beten"></a>Details  zum ver&auml;nderten Bet-System
+    <br>
+  </ol>
+  <blockquote>
+    <p>Das Erbeten von Attributsboni an Innosschreinen wurde etwas modifiziert.<br>
+    Vorher verhielt es sich so, dass jede Gilde in zuf&auml;lliger Reihenfolge eine bestimmte Anzahl an Bonus-Attributen erbeten konnte.</p>
+    <ul>
+      <li>S&ouml;ldner oder Drachenj&auml;ger erbeteten 10x St&auml;rke und 10x Geschick.</li>
+      <li>Novizen oder Feuermagier 20x Mana</li>
+      <li> Milizen, Paladine oder Gildenlose hingegen 10x St&auml;rke, 10x Geschick und 20x Mana - also die komplette Palette</li>
+    </ul>
+    <p>Milizsoldaten, Paladine und Gildenlose waren demnach im Vorteil, da man als solcher durch max. 40x Beten alle Boni abstauben konnte, w&auml;hrend die anderen Gilden durch min. 20x Beten nur die ihnen zugeteilten Boni erhielten und die restlichen (max.) 20 Boni-M&ouml;glichkeiten einfach verfielen. Das f&uuml;hrte bei den meisten Spielern zu einem Daueraufenthalt in Orlans Taverne und vielen Stunden inGame-Schlaf, indem sie vor einem Gildenbeitritt abwechselnd schliefen und beteten, um sich alle Boni zu sichern.<br>
+    Da das sowieso jeder macht, dachte ich mir, dass man das System dann doch lieber gleich so &auml;ndern sollte, dass das nervige Beten-Schlafen nicht mehr notwenidig ist. Und anstatt einfach alle 40 Boni gildenunabh&auml;ngig zu verteilen, dachte ich mir, man sollte je nach Gilde auch  die vorteilhaftesten Attribute bekommen.<br>
+    Im Klartext: Man hat in jedem Fall die M&ouml;glichkeit 40 mal zu beten, v&ouml;llig egal ob Angeh&ouml;riger einer Gilde oder gildenlos. Im Optimalfall erh&auml;lt man so also</p>
+    <ul>
+      <li>als S&ouml;ldner oder Drachenj&auml;ger 20x St&auml;rke und 20x Geschick</li>
+      <li>als Novize oder Feuermagier 40x Mana</li>
+      <li>als  Milizsoldat, Paladin oder Gildenloser die &uuml;blichen 10x St&auml;rke, 10x Geschick und 20x Mana</li>
+    </ul>
+    <p>Es gehen dabei in keinem Fall Boni verloren! Erbetet man also z.B. zu Anfang bereits 3x St&auml;rke und 2x Geschick und wird dann Novize / Feuermagier werden die restlichen 35 Punkte auf Mana verteilt, sodass man also nach und nach noch 35x Mana erbetet.<br>
+    Oder hat man als Gildeloser bereits 6x Mana erbetet und wird dann S&ouml;ldner / Drachenj&auml;ger werden die restlichen 34 Punkte zu gleichen Teilen auf St&auml;rke und Geschick verteilt, also 17x St&auml;rke und 17x Geschick. (W&uuml;rde eine ungerade Zahl an restlichen Punkten verbleiben, wie z.B. 33, so entscheidet der Zufall, ob man 1x St&auml;rke oder 1x Geschick mehr erh&auml;lt.)</p>
+    <p>Das System ist also absolut fair gegen&uuml;ber allen Gilden und man spart sich die Vollpension bei Orlan. Ggf. ist es jetzt sogar vorteilhafter, sich die Beterei f&uuml;r die Zeit nach einem Gildenbeitritt aufzusparen, um die optimaleren Boni abzustauben.</p>
+    <hr>
+    <p>&nbsp;</p>
+  </blockquote>
+  <ol start="3" type="a" class="Stil33">
+  <li class="Stil8"><a name="Details_Ruestungen"></a>Details  zu ver&auml;nderten R&uuml;stungswerten</li>
+  </ol>
+<blockquote>
+  <p>Die  R&uuml;stungen wurden neu ausbalanciert. So ist u.a. die schwere Drachenj&auml;gerr&uuml;stung  nun besser als die Paladinr&uuml;stung und damit die st&auml;rkste R&uuml;stung im Spiel. Aber  auch die meisten anderen R&uuml;stungen wurden &uuml;berarbeitet. Dadurch unterscheiden  sich die Gilden wieder st&auml;rker voneinander.<br>
+Au&szlig;erdem  wurde die Lederr&uuml;stung aus Matteos Warenlager nun etwas abgeschw&auml;cht, sodass es  sich nun unter Umst&auml;nden lohnt bei Matteo und Orlan die normale Lederr&uuml;stungen  zu kaufen.<br>
+F&uuml;r  den kleinen Geldbeutel verkauft Orlan auch noch zwei Bauernkleidungen.<br>
+<br>
+Eine  detailierte Auflistung aller R&uuml;stungswerte findet ihr <a href="g2_minimod_wertetabelle.mht" target="_blank">hier</a>. </p>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="4" type="a" class="Stil34">
+  <li class="Stil8"><a name="Details_Waffen"></a>Details zu ver&auml;nderten Waffenwerten</li>
+  </ol>
+<blockquote>
+  <p>Bei einigen Waffen wurden  Werte, wie St&auml;rkeanforderung, Schaden und Reichweite angepasst, um das  Balancing zu verbessern. Waffen, die in der Originalversion noch wenig  Beachtung fanden, k&ouml;nnten dadurch interessanter werden.<br>
+Der Grundgedanke dabei war,  auch schwere Waffen, wie &Auml;xte, H&auml;mmer und Keulen interessanter zu machen, die  meistens eine hohe St&auml;rkeanfordung bei wenig Schaden und geringer Reichweite  hatten. Allgemein gilt nun, dass solche Waffen geringere Anforderungen stellen,  als ein vergleichbares Schwert, daf&uuml;r aber auch eine geringe Reichweite haben. <br>
+Generell k&ouml;nnte man sagen:  Je schwerer die gleichwertige Waffe, desto h&ouml;her die Reichweite.</p>
+  <p>Desweiteren sind Berserkeraxt  und Drachenschneide nun nicht mehr die st&auml;rksten Waffen im Spiel sind. Der  Drachenj&auml;ger bekommt nun, wie in Gothic II - Classic, mit dem (Gro&szlig;en)  Erz-Drachent&ouml;tet wieder die beste Waffe im Spiel; der Paladin die zweitbeste,  wie es auch bei den Einh&auml;ndern der Fall war. Dadurch unterscheiden sich die  beiden Gilden wieder mehr voneinander. </p>
+  <p>Bei den Fernkampfwaffen  gibt es keine wesentlichen &Auml;nderungen. </p>
+  <p>Eine  detailierte Auflistung aller Waffenwerte findet ihr <a href="g2_minimod_wertetabelle.mht" target="_blank">hier</a>.</p>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="5" type="a" class="Stil35">
+  <li class="Stil8"><span style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none"><a name="Details_Magieschaden"></a>Details zu Magiesch&auml;den</span> </li>
+  </ol>
+<blockquote>
+  <p>Mit der MiniMod Balance  verursachen nun manche Waffen Magiesch&auml;den, die den Gegner (u.a. &uuml;ber kurze  Zeitr&auml;ume) sch&auml;digen. </p>
+  <p>Der <em>Zauberstab der  Feuermagier</em>, sowie der <em>Zauberstab der  Wassermagier</em> sind zwei dieser Waffen. Ihr Zusatzschaden wirkt unabh&auml;ngig vom R&uuml;stungsschutz des Gegners und auch wenn dieser  blockt. Also im Prinzip wie bei der Klaue Beliars, mit dem Unterschied, dass sich der  Schaden aus dem max. Mana des Helden errechnet. Auch der  Magieschaden der Zauberst&auml;be wirkt nicht bei jedem Schlag, sondern ist an  einen Zufallswert gekoppelt, da die St&auml;be ansonsten zu &uuml;berm&auml;chtig w&auml;ren.</p>
+  <p>Auch die vier gesegneten Paladinschwerter (<em>Ordensschwert, Gesegnete Erzklinge, Innos&lsquo; Zorn</em> und <em>Heiliger Vollstrecker</em>) besitzen zus&auml;tzlich zu ihrem physischen Schaden Magieschaden.<br>
+    Dieser Magieschaden  wird erst aktiv, wenn der Held einen bestimmten Manawert  erreicht. Ist das der Fall erscheint ein permanenter Licht-Effekt um die Klinge  herum. Beim <em>Ordensschwert</em> und der <em>Gesegneten Erzklinge</em> ist das ein leichtes Aufleuchten.  Die Klingen von <em>Innos&lsquo; Zorn</em> und des<em> Heiligen Vollstreckers</em> leuchten st&auml;rker. Ab dann wirkt der magische Zusatzschaden  der Waffen.<br>
+  Es handelt sich hierbei um &quot;echten&quot; Magieschaden, d.h. es ist der selbe Schadenstyp, den auch die meisten Zauber verursachen und so wird der Magieschutz des Gegeners in der Schadensberechnung ber&uuml;cksichtigt. Der Magieschaden wirkt allerdings nur bei b&ouml;sen Kreaturen oder Untoten (Orks, Suchende,  Skelette, Zombies, etc.).</p>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="6" type="a" class="Stil36">
+  <li class="Stil8"><span style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none"><a name="Details_AntikeRuestung"></a>Details zur Antiken R&uuml;stung</span></li>
+  </ol>
+<blockquote>
+  <p>Die Antike R&uuml;stung kann man  nun &uuml;ber einen Quest des Eremiten bekommen. Der Quest wird freigeschaltet,  nachdem das Herrenhaus der Priester von den Minecrawlern ges&auml;ubert und die  blaue Steintafel bei Saturas abgegeben wurde.<br>
+Die R&uuml;stung sieht aus wie  Raven's R&uuml;stung und soll eine Alternative zur Crawlerr&uuml;stung darstellen und hat  dementsprechend &auml;hnliche Schutzwerte.<br>
+Die Werte von Raven's  R&uuml;stung hingegen wurden nicht ver&auml;ndert, um den Kampf nicht noch einfacher zu  machen. <strong></strong></p>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="7" type="a">
+  <li class="Stil8"> <a name="Details_Perks"></a>Details zu den Perks</li>
+  </ol>
+<blockquote>
+  <p>Um die verschiedenen  Waffenarten (Schwerter, &Auml;xte, St&auml;be) etwas unterschiedlicher in ihrer Wirkung  zu gestalten wurden nun &quot;Perks&quot; eingef&uuml;hrt. Perks sind kleine Einzeltalente,  die der Held erlernen kann. Als Inspiration diente wohl Gothic 3. ;-)<br>
+Folgende Perks sind nun bei  verschiedenen Lehrern erlernbar:</p>
+  <ul>
+    <li><strong>Verbesserter Schwertkampf (10 LP):  </strong>Alle  Schwerter erhalten einen Bonus von +10 auf den Schaden. <br>
+    </li>
+    </ul>
+  <ul>
+    <li><strong>Verbesserter Axtkampf (10 LP): </strong>Alle  &Auml;xte erhalten einen Bonus von +10 auf den Schaden.</li>
+    </ul>
+  <ul>
+    <li><strong>Fechten (10 LP): </strong>Alle  Fechtwaffen (Waffen die Geschicklichkeit zum Anlegen erfordern) erhalten einen Bonus  von +10 auf den Schaden.</li>
+  </ul>
+  <ul>
+    <li><strong>Verbesserter Stabkampf (10 LP): </strong>Alle  St&auml;be erhalten einen Bonus von +10 auf den Schaden.</li>
+    </ul>
+  <ul>
+    <li><strong>Meister des Feuers (15 LP): </strong>Der  Perk gliedert sich in 2 Stufen. Solange man normaler Feuer- oder Wassermagier  ist verursachen alle Feuerzauber 5% mehr Schaden. Nachdem man nach dem  Umkehrritual am Sonnenkreis zum Hohen Feuermagier aufgestiegen ist steigt der  Schaden aller Feuerzauber sogar um 10%.</li>
+    </ul>
+  <ul>
+    <li><strong>Meister des Wassers (10 LP): </strong>Der  Perk gliedert sich in 2 Stufen. Solange man normaler Feuer- oder Wassermagier  ist verursachen alle Wasserzauber 5% mehr Schaden. Nachdem man nach dem  Umkehrritual am Sonnenkreis zum Hohen Wassermagier aufgestiegen ist steigt der  Schaden aller Wasserzauber sogar um 10%.</li>
+    </ul>
+  <ul>
+    <li><strong>Manaregeneration (20 LP): </strong>Das  Mana des Helden regeneriert sich sek&uuml;ndlich.<br> 
+      Wie viel  Mana pro Sekunde regeneriert wird ist abh&auml;ngig vom Level und dem Gesamt-Mana.  Somit regenerieren Klassen mit einem sehr hohem Manavorrat und hohem Level ihr  Mana sehr viel schneller als Klassen mit niedrigem Manavorrat und niedrigem  Level.<br>
+      Die  Mindestregenerationsrate betr&auml;gt 1 Mana / Sekunde.<br> 
+      Ist der  Held besessen stoppt die Regeneration.<br>
+    Berechnung:  <em>Mana pro Sek. = Spielerlevel * max. Mana / 2000</em></li>
+    </ul>
+  <ul>
+    <li><strong>Lebensregeneration (20 LP, 2500 Gold): </strong>Die  Lebensenergie des Helden regeneriert pro Sekunde.<br> 
+      Die  Regenerationsrate ist abh&auml;ngig vom Level und St&auml;rkewert. Je mehr St&auml;rke und je  h&ouml;her das Level, desto mehr Lebensenergie wird regeneriert.<br> 
+      Die  Mindestregenerationsrate betr&auml;gt 1 Lebenspunkt / Sekunde.<br> 
+      Die  Lebensregeneration kann an allen nicht-verfluchten Innos-Schreinen erlernt  werden.<br> 
+      Ist der  Held besessen stoppt die Regeneration.<br>
+    Berechnung: <em>HP pro Sek. = Spielerlevel * St&auml;rke / 1000</em></li>
+    </ul>
+  <ul>
+    <li><strong>Klingen sch&auml;rfen (10 LP): </strong>Dieses  Talent ist exklusiv im 5. Kapitel bei Harad erlernbar, wenn man sein Lehrling  ist. Es erm&ouml;glicht einem jede Waffe mit dem Schadenstyp &bdquo;scharf&ldquo; am Schleifstein zu  schleifen und damit den Schaden um 10 Punkte zu erh&ouml;hen. </li>
+  </ul>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="8" type="a" class="Stil38">
+  <li class="Stil8"><a name="Details_Lehringe" id="Details_Lehringe"></a>Details zum erweiterten Lehrlingssystem</li>
+  </ol>
+<blockquote>
+  <p>Die Berufe, denen der Held in Khorinis nachgehen kann, wurden geh&ouml;rig aufgebohrt. Jeder Beruf bietet neben einem Einkommen auch spezielle Lernm&ouml;glichkeiten zur Herstellung von Waffen oder Tr&auml;nken.</p>
+  <ul>
+    <li><a name="Lehrlinge_Schmied"></a> <span style="mso-bidi-font-family: Arial;text-decoration:none;text-underline:none"><strong>erweitertes
+      Schmiedesystem</strong></span></li>
+  </ul>
+  <blockquote>
+    <p>Zun&auml;chst einmal besitzen folgende  Waffen standardm&auml;&szlig;ig keinen Talentbonus mehr:<u></u></p>
+    <ul>
+      <li>Edles Schwert <u></u></li>
+      <li>Edles Langschwert <u></u></li>
+      <li>Rubinklinge <u></u></li>
+      <li>El Bastardo (6. Kap.  Bennet, Bandit Tom tr&auml;gt es)</li>
+    </ul>
+    <p>Diese Waffen erhalten ihren  Bonus nur noch, indem man sie selber schmiedet! Au&szlig;erdem ben&ouml;tigen  selbstgeschmiedete Waffen 10 St&auml;rkepunkte weniger zum anlegen.<br>
+      Weiterhin kann man nun auch  folgende Waffen schmieden, wenn man Lehrling bei Harad ist:</p>
+    <ul>
+      <li>Grober Zweih&auml;nder (Schaden:  60, St&auml;rke: 40, 4% auf Zweihandkampf)</li>
+      <li>Leichter Zweih&auml;nder  (Schaden 75, St&auml;rke 65, +5% Bonus)</li>
+      <li>Zweih&auml;nder (Schaden 100,  St&auml;rke 90, +6% Bonus)</li>
+      <li>Runen-Macht (Schaden 125,  St&auml;rke 115, +7% Bonus)</li>
+      <li>Sturmbringer (Schaden 150,  St&auml;rke 140, +8% Bonus)</li>
+    </ul>
+    <p>Dadurch sollte die Lehre  als Schmied auch f&uuml;r auf Zweih&auml;nder spezialisierte Chars interessanter werden. </p>
+    <p>Jede dieser Waffen gibt  einen Bonus auf den Zweihand-Skill. Die normale Variante der Schwerter, die zu  kaufen oder zu finden sind geben keinen Bonus und ben&ouml;tigen au&szlig;erdem 10  zus&auml;tzliche St&auml;rkepunkte. Die Waffen sind genauso viel wert, wie ihr  einh&auml;ndiges Gegenst&uuml;ck. Dadurch erhalten Zweihand-Chars keinen Vorteil durch mehr  Gold.<br>
+      Weiterhin wurde Rohstahl  aus den Handelsinventaren von Bennet und Huno entfernt. Dadurch wird ein  Exploit beseitigt, durch den man, durch erneutes Ansprechen, immer wieder  Rohstahl bei den beiden NPCs kaufen konnte.<br>
+      An neuen Rohstahl kommt man nun durch ein v&ouml;llig neues Feature. Hierzu  wurden Eisenerzadern in vielen H&ouml;hlen in der Spielwelt platziert. Durch das  Hacken an diesen Stellen (wof&uuml;r eine Spitzhacke ben&ouml;tigt wird) sammelt man  Eisenerz, welches bei den meisten Schmieden gegen Rohstahl getauscht werden  kann.<br>
+      Die F&auml;higkeiten im Erzhacken steigen mit der Zeit automatisch, sodass  man nach und nach mehr Eisenerz bzw. schneller sch&uuml;rft.<br>
+        <br>
+      Au&szlig;erdem bekommt man als Lehrling bei Harad im 5. Kapitel die M&ouml;glichkeit das  Talent &bdquo;Klingen sch&auml;rfen&ldquo; zu erlernen, wodurch man die M&ouml;glichkeit hat jede  Nahkampfwaffe vom Schadenstyp &bdquo;scharf&ldquo; am Schleifstein zu sch&auml;rfen, was den  Schaden der Waffe um 10 Punkte erh&ouml;ht.<br>
+    Das sollte den Nutzen der Schmied-Lehre auch im letzten Spielabschnitt sicherstellen.<br>
+    <br>
+    </p>
+    </blockquote>
+  <ul>
+    <li><strong><a name="Lehrlinge_Alchemie"></a>erweitertes Alchemiesystem</strong></li>
+  </ul>
+  <blockquote>
+    <p>Um die Lehre bei  Constantino interessanter zu gestalten wurden tempor&auml;re Tr&auml;nke eingef&uuml;hrt.  Diese Tr&auml;nke geben kurzzeitig Boni auf Attribute, verlieren also fr&uuml;her oder  sp&auml;ter ihre Wirkung wieder. Es gibt eine ganze Reihe dieser Tr&auml;nke. F&uuml;r jedes  Attribut (Lebensenergie, Mana, St&auml;rke und Geschick) gibt es drei unterschiedlich  starke Varianten eines tempor&auml;ren Trankes. Au&szlig;erdem gibt es einige Kombo-Tr&auml;nke  die gleichzeitig Boni auf mehrere Attribute geben. <br>
+      Die Wirkungsdauer ist von  Trank zu Trank unterschiedlich. Werden weitere Tr&auml;nke gleichen Typs getrunken bevor  die Wirkung des ersten Tranks nachgelassen hat, sinkt die Wirkungsdauer  proportional zur Anzahl der getrunkenen Tr&auml;nke. So ist es sinnvoller einen  Trank mit starker Wirkung zu trinken, statt mehrere Tr&auml;nke mit schw&auml;cherer  Wirkung, da sonst die Wirkungsdauer wesentlich geringer ist.<br>
+      Die Wirkungsdauer wird am  linken Bildschirmrand eingeblendet und ggf. in den <a href="#Details_Hotkeys" target="_self">Infoscreen</a> integriert.</p>
+    <p>Die tempor&auml;rern Tr&auml;nke sind  exklusiv bei Constantino erlernbar und das nur als sein Lehrling. Um den  Goldbestand ein wenig aufzubessern ist es auch m&ouml;glich selbstgebraute tempor&auml;re  Tr&auml;nke bei Constantino zu verkaufen.</p>
+    <p>Als  ein weiterer Vorteil dieser Lehre verkauft Constantino nun au&szlig;erdem jeden Tag  neue Kr&auml;uter. Art und Anzahl sind zufallsbedingt; Kr&auml;uter mit starker Wirkung  werden weniger oft generiert als schwache Kr&auml;uter. Kr&auml;uter mit permanenter  Wirkung, sowie Kronst&ouml;ckel werden nicht generiert.<br>
+      Dadurch  ist es als Alchemist auch im sp&auml;teren Spielverlauf noch m&ouml;glich Tr&auml;nke zu  brauen.</p>
+    <p>Die  Constantino-Lehre wurde also ordentlich aufgebohrt. Sie ist vielleicht nicht so  ertragreich, wie die anderen Lehren, da sich durch Pilze sammeln nicht das  gro&szlig;e Geld erwirtschaften l&auml;sst und der Verkauf von tempor&auml;ren Tr&auml;nken wohl nur  im Notfall sinnvoll ist. Das sollte aber durch die Lehrlings-exklusiven Tr&auml;nke  und Constantinos unendlichen Krautverkauf wieder ausgeglichen werden.<br>
+      <br>
+    </p>
+  </blockquote>
+  <ul>
+    <li><strong><a name="Lehrlinge_Munition"></a>Pfeil- und Bolzenherstellung</strong>    </li>
+    </ul>
+  <blockquote>
+    <p>Als Lehrling bei Bosper  kann man die Herstellung spezieller Pfeile und Bolzen erlernen. Diese  Munitionstypen haben spezielle Eigenschaften, die den Gegner besonders stark  oder tempor&auml;r schaden oder besonders treffsicher sind. Die Munition kann auch bei diversen H&auml;ndlern in geringen Mengen gekauft werden und ist auch im Inventar des ein oder anderen NPCs zu finden.<br>
+      F&uuml;r die Herstellung werden  spezielle Zutaten ben&ouml;tigt, i.d.R. Tiertroph&auml;en.<br>
+      Auf die Details der  Herstellung will ich hier gar nicht weiter eingehen, das erkl&auml;rt sich inGame  von selbst, die Schadenswirkung der Pfeile / Bolzen soll hier aber dennoch kurz  etwas ausf&uuml;hrlicher als im Spiel erl&auml;utert werden.</p>
+    <ul>
+      <li><strong>Spitze Pfeile / Spitze Bolzen</strong> geben einen Schadensbonus von 20 auf den aktuellen Waffenschaden.<br>
+        <em>Herstellung:</em> am Amboss<br>
+        <em>Rohstoffe:</em> 1 Zahn<br>
+        <em>Lehrer:</em> Bosper</li>
+      
+      <li><strong>Pr&auml;zise Pfeile / Pr&auml;zise Bolzen</strong> steigern das jeweile Waffentalent (Bogen- oder Armbrustschie&szlig;en) um 30%.<br>
+        <em>Herstellung:</em> am Amboss<br>
+        <em>Rohstoffe:</em> 1 Fl&uuml;gel einer Blutfliege<br>
+        <em>Lehrer:</em> Bosper</li>
+      <li><strong>Gesegnete Pfeile / Gesegnete Bolzen </strong>verursachen 40  Extraschadenspunkte gegen b&ouml;se Kreaturen (Orks, Suchende) und Untote. Dieser  Extraschaden kann nicht geblockt werden und wirkt unabh&auml;ngig von den  Schutzwerten des Gegners. Dem Gegner werden also pro Treffer pauschal 40 HP  abgezogen.<br>
+        <em>Herstellung:</em> am Innos-Schrein<br>
+        <em>Rohstoffe:</em> 20 Goldst&uuml;cke und 1 Heiliges Wasser (muss nur im Inventar vorhanden sein, wird nicht verbraucht)<br>
+        <em>Lehrer:</em> Marduk, allerding als Paladin und Lehrling bei Bosper</li>
+      <li><strong>Vergiftete Pfeile / Vergiftete Bolzen </strong>entziehen dem Gegner &uuml;ber  einen Zeitraum von 10 bis 20 Sekunden 15 Punkte Lebensenergie. Bei mehreren  Treffern durch einen Giftpfeil / -bolzen steigt der Schaden proportional dazu  an. Der Gifteffekt wirkt nicht auf Insekten, Golems, Steinw&auml;chter, Untote,  sowie die meisten Drachen.<br>
+        <em>Herstellung:</em> am Alchemietisch<br>
+        <em>Rohstoffe:</em> 1 Stachel einer Blutfliege und 1 Feldkn&ouml;terich<br>
+        <em>Lehrer:</em> Bosper</li>
+      <li>Der <strong>Stachel Beliars</strong> ist eine weitere Tauschoption f&uuml;r die Klaue  Beliars. Alle nicht-Feuermagier k&ouml;nnen am Beliar-Schrein die Klaue in den Stachel Beliars eintauschen und umgekehrt.<br>
+        Der Stachel Beliars kann sowohl Pfeil als  auch Bolzen sein, je nachdem, welches Talent weiter ausgebaut wurde. Der  Schaden ist wie bei der Klaue Beliars, abh&auml;ngig vom Level des Stachels, steigt also bei jeder verbesserung am Beliar-Schrein und unabh&auml;ngig vom Schaden der aktuellen Fernkampfwaffe<em>.<br>
+            </em>Gleichzeitig steigt mit jeder Stufe des Stachels die Chance auf den  Extraschaden von 100 Punkten, die dem Gegner, wie bei der Klaue, unabh&auml;ngig vom  R&uuml;stungsschutz abgezogen werden.<br>
+        Weiterhin ist der Munitionsvorrat unendlich gro&szlig;. Egal wie viele Pfeile /  Bolzen verschossen werden, der Bestand f&uuml;llt sich immer wieder auf.<br>
+        Einziges Manko ist der Tribut an Lebensenergie, die der Held bei jedem Treffer mit Extraschaden an Beliar zahlen muss. Jeder Treffer mit Extraschaden schadet also auch den Helden und entzieht ihm 20 HP. Dabei t&ouml;tet der Stachel aber nicht. Es bleibt min. 1 HP &uuml;brig.<br>
+          <em>Herstellung:</em> am Beliarschrein<br>
+          <em>Rohstoffe:</em> ---<br>
+          <em>Lehrer:</em> ---<br>
+      </li>
+      </ul>
+    <p><br>
+      <strong><a name="MAIN_Munitionswechsel"></a>Wechsel des Pfeil- /  Bolzentyps<br>
+    </strong>Das Wechseln des aktuellen  Pfeil- oder Bolzentyps ist denkbar einfach. <br>
+    Zum einen &ouml;ffnet sich beim Anlegen eines Bogens / einer Armbrust ein  Auswahlmen&uuml;, das alle verf&uuml;gbaren Pfeile / Bolzen auflistet. Wen das auf Dauer  st&ouml;rt, kann dieses Men&uuml; auch &uuml;ber das <a href="#Details_Hotkeys" target="_self">Hotkey-Men&uuml;</a> deaktivieren.<br>
+    Eine weitere M&ouml;glichkeit ist das Hotkey-Men&uuml; selbst, welches einem die Auswahl-Optionen  &bdquo;Anderen Pfeil einlegen&quot; oder &quot;Anderen Bolzen einlegen&quot; - je  nachdem - anbietet. Auch so ist ein Munitionswechsel jederzeit m&ouml;glich, ohne  daf&uuml;r jedesmal die aktuelle Fernkampfwaffe, ab- und wieder anlegen zu m&uuml;ssen. Das  Men&uuml; ist allerdings nur verf&uuml;gbar, wenn die Fernkampfwaffe <strong>nicht</strong> gezogen, also nur angelegt ist.<br>
+    </p>
+    </blockquote>
+  <hr>
+</blockquote>
+<ol start="9" type="a" class="Stil39"><li class="Stil8"><span style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none"><a name="Details_Beschwoerung" id="Details_Beschwoerung"></a></span>Ver&auml;ndertes Beschw&ouml;rungssystem</li>
+</ol>
+<blockquote>
+  <p>Das Beschw&ouml;ren von Monstern  wurde ver&auml;ndert. <br>
+    Anstatt einer fixen Zeitspanne, in der alle beschworenen  Monster existieren (max. 2 Min.), richtet sich die Beschw&ouml;rungszeit nun au&szlig;erdem nach dem  verf&uuml;gbaren Mana. Sobald eine Kreatur beschworen wird, wird kontinuierlich Mana  abgezogen - die Kreatur existiert solange, wie Mana vorhanden ist und k&auml;mpft an  der Seite des Helden. Das Mana, das pro Sekunde abgezogen wird, richtet sich  nach dem Magie-Kreis der Rune. Eine Kreis 1-Beschw&ouml;rung verbraucht also  sek&uuml;ndlich 1 Manapunkte, eine Kreis 2-Beschw&ouml;rung 2 Mana, usw.<br>
+Erreicht das Mana den Wert  0 stirbt die Kreatur. Bei mehreren gleichzeitig beschworenen Kreaturen erh&ouml;ht  sich das abzuziehende Mana pro Sekunde proportional zur Anzahl der Kreaturen.<br>
+Es ist m&ouml;glich mit Hilfe  der Manaregeneration das durch Beschw&ouml;rungen verbrauchte Mana / Sek. zu kompensieren.  Wenn die Regenerationsrate hoch genug ist kann sogar mehr Mana regeneriert als  verbraucht werden.<br>
+  Die Kreatur stirbt ebenfalls, wenn die Distanz zum Spieler zu gro&szlig; wird oder der Spieler sich teleportiert oder verwandelt.</p>
+  <p>Mit  diesem neuen System sollen vor allem die v&ouml;llig overpowerten Beschw&ouml;rungen  abgeschw&auml;cht und der Kampf taktischer werden. W&auml;hrend Beschw&ouml;rungen am Anfang  (vor allem das Beschw&ouml;ren von starken Monstern &uuml;ber Spruchrollen) lediglich  eine gute Unterst&uuml;tzung sein k&ouml;nnen, werden sie im Laufe des Spiels immer  attraktiver. Wobei st&auml;rkere Kreaturen aber auch mehr Mana pro Sekunden  verbrauchen.</p>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="10" type="a" class="Stil40">
+  <li class="Stil8"><span style="mso-bidi-font-family:Arial;text-decoration: none;text-underline:none"><a name="Details_Verwandlungen"></a>Ver&auml;ndertes Verwandlungssystem</span></li>
+  </ol>
+<blockquote>
+  <p>Auch das Verwandeln per  Spruchrolle und neuerdings auch Rune, wurde &uuml;berarbeitet und entsch&auml;rft. <br>
+Verwandlungen wie z.B.  Drachensnapper waren zwar nur einmal (als Spruchrolle) erh&auml;ltlich, aber  zeitlich unbegrenzt, sodass man, mit Hilfe dieser Zauber schon sehr fr&uuml;h die  gesamte Fauna ausrotten konnte. Um das zu verhindern sind Verwandlungen nun  zeitlich begrenzt. Die Verwandlungszeit ist dabei abh&auml;ngig vom Mana des Helden,  dem w&auml;hrend einer Verwandlung sek&uuml;ndlich Manapunkte abgezogen werden. Die  Anzahl der Punkte richtet sich dabei nach der &quot;Stufe&quot; der  Verwandlung. Die Stufe einer Verwandlung richtet sich wiederum nach dem  Magie-Kreis, dem die Rune zugeordnet w&auml;re. &quot;W&auml;re&quot;, weil sie das nicht  ist. Das Besondere an den Verwandlungsrunen ist, dass sie f&uuml;r alle Klassen  erlernbar und, wie Teleport-Runen, einsetzbar sind. F&auml;llt die Rune /  Spruchrolle nun also in den imagin&auml;ren Magie-Kreis 2 w&auml;re demnach auch die Stufe  2 und sie verbraucht 2 Manapunkte pro Sekunde, eine Kreis 3-Verwandlung 3  Manapunkte, usw.<br>
+Eine Zuordnung der Runen zu  den Kreisen findet ihr <a href="g2_minimod_wertetabelle.mht" target="_blank">hier</a>.<br>
+Erreicht das Mana den Wert  0 greift der Zauber die Lebensenergie an und es werden nun sek&uuml;ndlich 5% der HP  abgezogen. Die Verwandlungsdauer wird aber als gr&uuml;ne Leiste am oberen, rechten  Bildschirmrand dargestellt. So hat man immer den &Uuml;berblick wann man sich  zur&uuml;ckverwandeln sollte.</p>
+  <p>Ich musste leider diesen  etwas unsch&ouml;nen Weg gehen, da es nicht m&ouml;glich ist, den Helden &uuml;ber Scripts  wieder zur&uuml;ck zu verwandeln. Diese Funktion ist Engine-intern und als einfacher  Modder wird man daran nichts &auml;ndern k&ouml;nnen. Darum wird der Spieler so aber  trotzdem gezwungen sich zur&uuml;ck zu verwandeln. Denn wenn die Lebensenergie  verbraucht ist, stirbt der Held nat&uuml;rlich auch seinen virtuellen Tod.</p>
+  <p>Die Lebenspunkte werden nun  &uuml;brigens bei einem Levelaufstieg im verwandelten Zustand korrekt berechnet, was  bisher immer ein Bug des Originalspiels war.<br>
+    Die Manaregeneration ist w&auml;hrend einer Verwandlung deaktiviert.</p>
+  <p>Als Lehrer, bzw. f&uuml;r die  Herstellung der Runen dient Nafarius, sowohl in Jharkendar, als auch schon in  Khorinis. </p>
+  <p>Ich hoffe so, die  Verwandlungen etwas entsch&auml;rft zu haben, aber gleichzeitig auch attraktiver zu  machen, denn alle Verwandlungen sind nun schlie&szlig;lich auch als Rune erh&auml;ltlich.  So kann auch ein Wandlungsmagier m&ouml;glich sein und auch Drachenj&auml;ger k&ouml;nnen  diese Zauber wirken, wenn auch, mangels Mana, weniger effektiv.</p>
+  <p>&Uuml;ber  einen Wassermagier als Lehrer schlage ich zudem eine kleine Story-Br&uuml;cke zur  Gothic 3-Story, in der Verwandlungen Ananos-/ Druidenzauber sind.</p>
+  <hr>
+  <p>&nbsp;</p>
+</blockquote>
+<ol start="11" type="a" class="Stil41">
+  <li class="Stil8"><a name="Details_Hotkeys"></a>Details zu den Hotkeys</li>
+  </ol>
+<blockquote>
+  <p>Mit der MiniMod Balance  wurden zwei Hotkey-Tasten freigeschaltet, die im Optionsmen&uuml; frei konfiguriert  werden k&ouml;nnen. <br>
+Die Tasten tragen die  Bezeichnung &bdquo;Infoscreen&ldquo; und &bdquo;Hotkey-Men&uuml;&ldquo; und erm&ouml;glichen einige neue  Features, aber dazu unten mehr.<br>
+Im Einstellungsmen&uuml; &bdquo;Steuerung&ldquo; befinden sich die Konfigurationen f&uuml;r  &quot;Hotkey-Men&uuml;&quot; und &quot;Infoscreen&quot; an den Positionen, an denen  sich sonst die weniger genutzten Tasten &quot;Umsehen&quot; und  &quot;Fistperson&quot; befanden.<br>
+Um diese beiden Tasten zu konfigurieren muss im Optionsmen&uuml; &quot;Spiel&quot;  die Gothic 1 - Steuerung deaktiviert werden. Nun ist im Steuerungsmen&uuml; die  Option &quot;Weitere Tasten&quot; vorhanden (ganz am Ende). Dort befinden sich  nun die Einstellungsm&ouml;glichkeiten f&uuml;r &quot;Umsehen&quot; und  &quot;Firstperson&quot;.</p>
+  <p><strong>Das Hotkey-Men&uuml;</strong><br>
+    Die Taste &bdquo;H&ldquo;  (Standartbelegung) ruft dabei ein Auswahlmen&uuml; auf, &uuml;ber das man verschiedene  Kleinigkeiten ausf&uuml;hren kann. So ist es u.a. m&ouml;glich die Gangart des Helden zu  wechseln oder diverse Animationen abzuspielen, wie z.B. Hinsetzen (f&uuml;r das  passende Feeling am Lagerfeuer), verschiedene Stand-Animationen,  Trainingsanimationen f&uuml;r Schwertk&auml;mpfer und Magier usw. Manche Animationen sind  allerdings an bestimmte F&auml;higkeiten o.&auml;. gekoppelt. So sind die  Trainingsanimationen f&uuml;r Zauber nur verf&uuml;gbar, wenn min. der 1. Kreis der Magie  gelernt wurde und das Schwerttraining erfordert nat&uuml;rlich eine angelegte  Nahkampfwaffe.<br>
+    Desweiteren kann der Helm  einer R&uuml;stung auf- und abgesetzt werden.<br>
+    In Verbindung mit den neuen  Pfeil- und Bolzentypen wird &uuml;ber diesen Hotkey auch die Munition der aktuellen  Fernkampfwaffe gewechselt. Details dazu siehe <a href="#Detail_PfeileHerstellen">hier</a>.<br>
+    Au&szlig;erdem lassen sich &uuml;ber  die Option &bdquo;Zus&auml;tzliche Einstellungen&ldquo; weitere Konfigurationen vornehmen. So  kann die Munitionsauswahl beim Anlegen von Fernkampfwaffen (de)aktiviert werden  und es k&ouml;nnen beliebig Bereiche des Infoscreens ausgeblendet werden, falls  jemandem die Anzeigen zu &uuml;berladen sind.</p>
+  <p><strong>Der Infoscreen</strong><br>
+    Die Taste &bdquo;P&ldquo;  (Standartbelegung) blendet einen &bdquo;Infoscreen&ldquo; ein. Das ist eine Texteinblendung  am oberen linken Bildschirmrand, die einem auf einen Blick diverse Informationen anzeigt, die sonst nur &uuml;ber Inventaranzeigen oder teilweise auch gar nicht vermittelt werden w&uuml;rden.<br>
+    Angezeigt  werden hier nun:</p>
+  <ul>
+    <li>die angelegte Nahkampfwaffe</li>
+    <li>der gesamte  Nahkampf-Waffenschaden, d.h. Waffenschaden plus zus&auml;tzl. Perkschaden</li>
+    <li>ggf. Sekund&auml;rsch&auml;den (Magie)</li>
+    <li>Reichweite der Nahkampfwaffe</li>
+    <li>der Extraschaden von  Zauberst&auml;ben</li>
+    <li>die angelegte  Fernkampfwaffe</li>
+    <li>den gesamte Fernkampf-Waffenschaden, d.h. Waffenschaden plus ggf. Bonusschaden durch Munition</li>
+    <li>Der eingelegte Munitionstyp und die verbleibende Anzahl davon</li>
+    <li>der Schadenstyp der aktuellen Nah- und Fernkampfwaffe</li>
+    <li>der gesamte Zauberschaden +  Manaverbrauch des gezogenen Zaubers</li>
+    <li>der aktive Perk zur Waffe /  zum Zauber</li>
+    <li>die aktuelle  Manaregeneration pro Sekunde</li>
+    <li>die aktuelle  Lebensregeneration pro Sekunde</li>
+    <li>die Wirkungsdauer <a href="#Lehrlinge_Alchemie" target="_self">tempor&auml;rer Tr&auml;nke</a> </li>
+  </ul>
+  <p>Das sollte manche  zahlenlastige Features der MiniMod Balance etwas durchschaubarer machen und man  bekommt auf einen Blick alle relevanten Infos angezeigt.<br>
+    Der Infoscreen ist &uuml;brigens  dynamisch, d.h. die Informationen werden nur angezeigt wenn sie auch gebraucht  werden. Wurde also bspw. die Manaregeneration nicht gelernt, werden auch keine  Infos dazu angezeigt. Oder besitzt man keinen der Zauberst&auml;be, fallen auch  diese Zeilen weg.<br>
+    Falls jemand bestimmte  Bereiche komplett deaktivieren m&ouml;chte, um z.B. nur die Regenerationsraten  angezeigt zu bekommen, kann dies &uuml;ber &bdquo;Zus&auml;tzliche Einstellungen&ldquo; im Hotkey-Men&uuml;  konfigurieren.<br>
+  &nbsp;<br>
+  <strong>Anmerkung:</strong> Die Anzeige ist auf die Aufl&ouml;sung 1650x1080 optimiert, da ich selbst  diese Aufl&ouml;sung verwende. Bei einer tieferen Aufl&ouml;sung als 1152x864 kann es  daher zu &Uuml;berschneidungen im Text kommen. Da solche niedrigen Aufl&ouml;sungen allerdings  immer seltener werden d&uuml;rfte das nur noch die wenigsten betreffen. &nbsp;</p>
+  <hr>
+  <p>&nbsp;</p>
+  </blockquote>
+<ol start="12" class="Stil8" type="a">
+  <li><span><span class="Stil57"><a name="Details_Schwierigkeit" id="Details_Schwierigkeit"></a></span>Details zum Schwierigkeitgrad-Regler
+    </span><br></li></ol>
+    <blockquote>
+      <p>Der Schwierigkeitsgrad-Regler ist &uuml;ber das <a href="#Details_Hotkeys">Hotkey-Men&uuml;</a> im Bereich &quot;Weitere Einstellungen&quot; zu erreichen. Hier steht die Option <strong>&quot;Drachenbeschw&ouml;rungen aktivieren / deaktivieren&quot;</strong> zur Auswahl.<br>
+      Ist diese Einstellung aktiviert (Standard) beschw&ouml;ren die Drachen w&auml;hrend des Kampfes Verst&auml;rkung (Golems, entsprechend ihres Elements, bzw. Skelette beim Untoten Drachen), sobald ihre Lebensenergie  bestimmte Werte unterschreitet. Die Anzahl der zu beschw&ouml;renen Kreaturen ist begrenzt. Fr&uuml;her oder sp&auml;ter muss der Drache also allein klarkommen.</p>
+      <hr>
+      <p>&nbsp;</p>
+    </blockquote>
+  <ol start="13" type="a" class="Stil8">
+  <li class="Stil8"><a name="Details_Scriptpatch"></a>Details zu Lord Sargons
+    Script-Patch</li>
+  </ol>
+<blockquote>
+  <p>Da ich mit meiner Mod auch  m&ouml;glichst viele Bugs beseitigen m&ouml;chte, lag es nahe auch die beiden gro&szlig;artigen  inoffiziellen Script-Patches zu integrieren, die bereits von Fizzban und Lord  Sargon erstellt wurden. Die beiden waren so freundlich mir die Daten zur  Verf&uuml;gung zu stellen &ndash; herzlichen Dank daf&uuml;r!</p>
+  <p>Da Lord Sargons Patch auch  Fizzbans &Auml;nderungen beinhaltet, liste ich hier nur den Changelog von Sargon  auf.<br>
+    Die Features wurden  teilweise an das Konzept der MiniMod angepasst, sodass es leichte Abweichungen  vom originalen Scriptpatch gibt. So kann u.a. der Wassermagier zwar weiterhin  die Klaue Beliars als Schwert nutzen, allerdings richtet diese dann nur halben  Schaden an. Au&szlig;erdem gibt es ein paar zus&auml;tzliche (unvertonte) Dialoge bei  verschiedenen NPCs, die auf die Gilde Wassermagier reagieren uvm.</p>
+  <ol type="a">
+    <li class="Stil7"><strong>Features</strong></li>
+    </ol>
+  <ol type="a">
+    <ul>
+      <li><strong>Gildenlos:<br>
+      </strong>F&uuml;r Freunde des gildenlosen  Spiels wurden die 2 H&uuml;rden entfernt, die es bislang verhindert haben, gildenlos  zu bleiben. Lord Hagen l&auml;sst nun auch Gildenlose und Novizen ins 2.Kapitel (um  zu Lord Hagen vorzudringen, muss man aber nat&uuml;rlich nachwievor die Wachen  austricksen), und Xardas geht trotz Gildenlosigkeit zum Sonnenkreis. 
+        <ul>
+        <li>Als  Gildenloser kann man im 5. Kapitel im Klosterkeller eine weitere R&uuml;stung  bekommen, die muss man allerdings im Kampf mit einem harten (namenlosen) Gegner  erbeuten.</li>
+        <li>Als Gildenloser kann man (aus Nostalgiegr&uuml;nden) noch eine  Schattenr&uuml;stung von Diego am Austauschplatz bekommen (ist schon im 1.Kapitel  m&ouml;glich), sowie eine Templerr&uuml;stung von Angar.</li>
+        <li>Xardas bringt einem ab Kapitel 3 die ersten 3 Kreise der Magie bei, dazu  einige Zauber und steigert auch das Mana. (MiniMod-Feature)</li>
+        <li>Der spawn  f&uuml;r Gildenlose im 5. Kapitel wurde angepasst. So spawned nun ein Mix aus  Echsenmenschen und Orks. Dazu kann der Gildenlose sowohl den Orkring-Quest von  Lord Hagen, als auch den Dracheneier-Quest von Bennet bekommen, wird aber nicht  die volle Anzahl Orkringe und Dracheneier abgeben k&ouml;nnen. (Respawn wurde durch die MiniMod angepasst)<br>
+          <br>
+        </li>
+        </ul>
+        </li>
+      <li><strong>Novize:</strong><br>
+        Zu Zeiten von G2 Klassik,  wo es das Hindernis bei Lord Hagen noch nicht gab, und man gildenlos oder als  Novize ins 2. Kapitel kam, stand man vor dem Problem, dass es im 2.Kapitel als  Novize keine Arbeit im Kloster gab und man nicht in die Bibliothek konnte  (unter anderem deswegen wurde im Addon das Hindernis bei Lord Hagen eingebaut).  Da ich das Hindernis jetzt wieder entfernt habe, habe ich die Novizenquests  auch f&uuml;rs 2.Kapitel freigeschaltet, man kann jetzt also problemlos auch im  2.Kapitel Novize und Magier werden (f&uuml;r die Feuerpr&uuml;fung kann man dann z.B. die  Feuerpfeil-Rune aus Jharkendar holen).<br>
+        <br>
+      </li>
+      <li><strong>Wassermagier:</strong><br>
+        F&uuml;r alle, die gerne  Wassermagier werden wollen, gibt es nach Ravens Tod diese Option bei Saturas. Der  Zeitpunkt macht storym&auml;&szlig;ig Sinn, da man erst nachdem man Raven besiegt hat  wieder das volle Vertrauen von Saturas zur&uuml;ckgewonnen hat. Welcher Gilde man  vorher angeh&ouml;rt hat, ist egal, man kann ab dann immer zum Wassermagier werden,  sp&auml;testens im 5.Kapitel.
+        <p>Da es sich mehr um eine Anpassung  an bereits Vorhandenes als um eine richtige Mod handelt, gibt es weder neue  NPCs noch spezielle Wassermagier-Quests/Dialoge, aber weil man dann der  Wassermagier-Gilde angeh&ouml;rt, mussten nat&uuml;rlich f&uuml;r zahlreiche gildenabh&auml;ngige  Dialoge/Aktionen/Reaktionen eigens Entscheidungen f&uuml;r den Fall des  Wassermagiers getroffen werden, also welche der vorhandenen Quests man bekommt,  was man lernen kann, welchen Respawn es gibt, und welche Gespr&auml;chsoptionen,  also dass man von NPCs z.B. nicht als S&ouml;ldner oder Feuermagier  angesehen/bezeichnet wird etc. <br>
+          Als Wassermagier bekommt  man nat&uuml;rlich 2 verschiedene Wasserroben, zus&auml;tzlich gibt es noch eine Sch&auml;rpe  des Wassers (analog zur Sch&auml;rpe des Feuers), 2 neue Beschw&ouml;rungszauber f&uuml;r den  3. und 4. Kreis, und im 5.Kapitel kann man noch eine dunkle Robe und eine  weitere &quot;Wasser-Rune&quot; (statt dem Heiligen Geschoss) erhalten, des weiteren  kann man als Wassermagier die Klaue Beliars beliebig zwischen Rune, Pfeil bzw. Bolzen und Nahkampfwaffe  umtauschen.<br>
+        (Auch hier einige konzeptionelle Ver&auml;nderungen durch die MiniMod, wie die Tauschm&ouml;glichkeit der Klaue zum Pfeil / Bolzen oder kleine, neue (aber unvertonte) Dialoge mit den Wassermagiern.)</p>
+      </li>
+    </ul>
+    <ul>
+      <li><strong>Sonstiges:</strong> <br>
+        Esteban hat jetzt den  Schl&uuml;ssel dabei, mit dem man seine Truhe &ouml;ffnen kann.<br>
+        <span class="Stil7"><br>
+        </span></li>
+    </ul>
+  </ol>
+  <ol start="2" type="a">
+   <li class="Stil7"><strong>Bugs</strong></li><br>
+            <ul>
+              <li><strong>Lares:<br>
+              </strong>Der Lares-Bug in der Form,  dass Lares in Kapitel 1 und 2 nicht mehr zu den Wassermagiern bzw. in den  n&ouml;rdlichen Wald mitgeht, ist in den aktuellen G2-MDK-Scripts schon l&auml;ngst  behoben (kommt auch in der Gold-Version nicht mehr vor). Allerdings kann es im  3.Kapitel (wo Lares grunds&auml;tzlich nicht mehr mitgeht) offenbar noch vorkommen,  dass die Option &quot;Ornament zur&uuml;ckverlangen&quot; fehlt, und man somit auf  &quot;blaresb&quot; etc. zur&uuml;ckgreifen muss, um das Ornament zur&uuml;ckzubekommen.  Au&szlig;erdem sorgt es bei manchen f&uuml;r Verwirrung, wenn Lares im 3.Kapitel noch auf  eine Abl&ouml;sung wartet, und sagt, dass er losgehen will, es aber dann doch nicht  tut.<br>
+  Um derartiges zu vermeiden,  gibt es folgende &Auml;nderungen:<br>
+  <br>
+                <ul>
+                  <li>F&uuml;r Versionen, wo oben genannter  Lares-Bug noch auftritt, wird dieser behoben</li>
+                  <li>Lares erwartet jetzt im  3.Kapitel keine Abl&ouml;sung mehr, und sagt bei der &quot;Lass uns  gehen&quot;-Option, dass er hierbleiben will, mit anschlie&szlig;endem &quot;Ornament  zur&uuml;ckverlangen&quot; als einzige Option, womit klar ist, dass man das Ornament  alleine zu den Wassermagiern bringen mussZ</li>
+                  <li>Wenn man das Ornament erst  im 3.Kapitel Lares gibt, akzeptiert er direkt das Angebot des Helden: <em>&quot;Ich werde das Ornament f&uuml;r dich  hinbringen.<br>
+                    <br>
+                  </em></li>
+                </ul>
+              </li>
+              <li><strong>Verwandlung:</strong><br>
+              </li>
+            </ul>
+    </li>
+    <ol>
+      <ul>
+        <li>Wenn man sich nach einer  Tierverwandlung zur&uuml;ckverwandelt, hat man automatisch die besten Waffen, die  man tragen kann, angelegt. Wenn man vor der Verwandlung eine andere  Nahkampfwaffe angelegt hatte, und es einen attributsver&auml;ndernden Unterschied  gibt, wirkt sich dieser bei der R&uuml;ckverwandlung permanent aus. Um diesen bug zu  vermeiden, wird jetzt auch direkt vor der Verwandlung die beste Nahkampfwaffe  angelegt, somit gibt es keine Differenz zur Waffe nach der Verwandlung und  keine Attributs&auml;nderungen.</li>
+        <li>Wenn man von NPCs in  verwandelter Form gesehen wurde, wollen sie einen auch sp&auml;ter (wenn man l&auml;ngst  zur&uuml;ckverwandelt ist) noch t&ouml;ten. Mit der &Auml;nderung verhalten sie sich danach  friedlich (vorausgesetzt man hat sich aus ihrer Sichtweite entfernt, solange  sie noch feindlich waren), das selbe gilt auch, wenn man sich ihnen in  Banditenr&uuml;stung gezeigt hatte.</li>
+        <li>Verwandlungsspruchrollen  kosten laut Anzeige 5 Mana, ziehen aber trotzdem bei der Verwandlung 10 Mana  ab, das ist auf jetzt auf 5 Mana korrigiert. </li>
+      </ul>
+      </ol>
+    <blockquote>
+      <p> Anmerkung: Die MiniMod Balance &auml;ndert die Manawerte der Spruchrollen (siehe <a href="#Aenderungen_Balancing" target="_self">Balancing</a>) daher ist diese &Auml;nderung hinf&auml;llig.</p>
+    </blockquote>
+    
+      <ul>
+        <li><strong>Schattenl&auml;uferh&ouml;rner:<br>
+          <br>
+        </strong>
+          <ul>
+            <li>Der 0-Exp-bug ist behoben.</li>
+            <li>Der Exploit wird  verhindert, d.h. wenn man Buster niederschl&auml;gt, bekommt man die H&ouml;rner nicht  mehr zur&uuml;ck</li>
+            <li>Man kann jetzt auch wenn  man das H&ouml;rnernehmen noch nicht gelernt hat, gefundene H&ouml;rner an Buster abgeben<br>  
+              <br>
+        </li>
+          </ul>
+        </li>
+        <li><strong>Diebesgilde:</strong></li>
+      </ul>
+      <blockquote>
+        <p>Wenn man Rengaru und Halvor  hat laufen lassen, aber von Nagur keinen Auftrag mehr erh&auml;lt, weil man  Miliz/Paladin/Novize/Magier ist, ist ein Beitritt zur Diebesgilde nicht mehr  m&ouml;glich. Es ist zwar die Frage, ob man das &uuml;berhaupt als Bug bezeichnen kann,  da es durchaus so gedacht ist, dass man unwichtige Nebenquests in den Sand  setzen kann (wenn man wei&szlig;, wie es geht, macht man den Fehler ohnehin nicht  mehr, und holt sich Nagurs Auftrag am besten gleich als Gildenloser), trotzdem  gibt es jetzt als Notl&ouml;sung eine weitere alternative (brutale)  Beitrittsm&ouml;glichkeit: Wenn man einen der 3 (Nagur, Halvor, Rengaru) t&ouml;tet, wird  man auch von Kardif zu Attila geschickt, der einen direkt ohne Dialog angreift.</p>
+      </blockquote>
+      <ul>
+        <li><strong>Au&szlig;erdem:<br>
+          <br>
+        </strong><ul><li>Fokussteine: Wenn man einen  Fokus verloren hat, bekommt man von Merdarion einen neuen<br>
+            </li>
+            <li>Alte M&uuml;nzen: Der Exploit  wird verhindert, d.h. wenn man Wasili niederschl&auml;gt, bekommt man die M&uuml;nzen  nicht mehr zur&uuml;ck<br>
+            </li>
+            <li>Sprachen der Erbauer: Der  Fehler, dass Myxir in der Stadt keine Sprachen mehr lehrt, ist behoben<br>
+            </li>
+            <li>Feuerdrache: Der  Feuerdrache ist jetzt nicht mehr schon von Anfang an sterblich<br>
+            </li>
+            <li>Sekob: Sekob ist nach dem  Suchenden-Problem wieder sterblich<br>
+            </li>
+            <li>Mika-Exploit: Der Bug, dass  man Mika unbegrenzt oft auf Akil ansprechen und EXP kassieren kann, ist behoben<br>
+            </li>
+            <li>Milten-Exploit: Wenn man  Milten auf Irdorath niederschl&auml;gt, hat er jetzt nicht nocheinmal das ganze neue  Inventar mit Kronst&ouml;ckel und Drachenwurzel<br>
+            </li>
+            <li>Vatras-Almanach-Exploit: Wenn  man Vatras auf Irdorath den Almanach der Besessenen gibt, kann man ihn jetzt  nicht mehr zur&uuml;ckkaufen</li>
+            <li>Der Jan-Drachenblut-Exploit  ist jetzt auch behoben.</li>
+            <li>Als Wassermagier braucht  man im 5.Kapitel keine Teleportrune mehr zu bauen, um die letzte Robe/Rune zu  erhalten (damit es nicht ganz gleich wie beim Paladin ist).</li>
+            <li>Der Bug, dass man Suchenden  ihre Runen klauen kann, ist behoben</li>
+            <li>Skelett-Exploit:  Skelettmagier beschw&ouml;ren jetzt nur mehr maximal 5 Skelette</li>
+            <li>Diverse  Kleinigkeiten ausgebessert.</li>
+            </ul>
+        </li>
+      </ul>
+    </ol>
+  </blockquote>
+<p>&nbsp;</p>
+<div class="Stil9">
+  <p><strong>7. <span style="mso-bidi-font-family:Arial;mso-ansi-language: EN-US;text-decoration:none;text-underline:none"><a name="MAIN_Credits"></a>Credits</span></strong></p>
+</div>
+<p><strong><u>Beta-Tester:</u></strong></p>
+<p>  Zephir<br>
+  Dumpfie<br>
+  Jason<br>
+  Selfurdo<br>
+  Antharus<br>
+  Mirar<br>
+</p>
+<p><strong>Danke an alle!</strong></p>
+<p><br clear="ALL">
+    <strong><u>Helfende H&auml;nde:</u></strong></p>
+<table width="870" border="0">
+  <tr>
+    <td width="109"><strong><em>Fizzban</em></strong></td>
+    <td width="751">Hat mir freundlicherweise die Rohdaten seines Script-Patches zur Verf&uuml;gung gestellt.</td>
+  </tr>
+  <tr>
+    <td><strong><em>Lord</em> <em>Sargon</em></strong></td>
+    <td>Hat ebenfalls die Rohdaten  seines Script-Patches beigesteuert.</td>
+  </tr>
+  <tr>
+    <td><strong><em>Sumpfkrautjunkie</em></strong></td>
+    <td> Danke f&uuml;r Font  und Script der Verwandlungs-Leiste, der Runen-Textur des Zeitspalt-Zaubers und so mancher Idee und Scripting-Tipps, die ich im Editing-Forum abgeschaut habe. ;-)</td>
+  </tr>
+  <tr>
+    <td><strong><em>Dumpfie</em></strong></td>
+    <td>Danke f&uuml;r viele Tipps und Vorschl&auml;ge in  Sachen Balance und inhaltliche Ver&auml;nderungen.</td>
+  </tr>
+  <tr>
+    <td><strong><em>Shadowblade</em></strong></td>
+    <td>Hat netterweise die Dialog-Texte der Perks beigesteuert.</td>
+  </tr>
+  <tr>
+    <td><strong><em>Ice_Dragon</em></strong></td>
+    <td>Der die  Ritter- / Paladinr&uuml;stung  ohne Helm in der Modder-Datenbank bereit gestellt hat.</td>
+  </tr>
+  <tr>
+    <td><strong><em>Sentinel</em></strong></td>
+    <td> Besten Dank f&uuml;r die  tollen Texturen der Teleportrunen und -Spruchrollen, u.a.</td>
+  </tr>
+  <tr>
+    <td><strong><em><a href="http://www.worldofgothic.de" target="_blank">WorldofGothic</a></em></strong></td>
+    <td> Ein Dank f&uuml;r das Hosting  dieser Mod</td>
+  </tr>
+  <tr>
+    <td height="33"><strong><em><a href="http://www.piranha-bytes.com/index.php?lang=ger" target="_blank">Piranha  Bytes</a></em></strong></td>
+    <td>Danke f&uuml;r ein gro&szlig;artiges Spiel! </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</div>
+</body>
+
+</html>
